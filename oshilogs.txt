@@ -1,0 +1,222 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VBbGFuYQ/c21hcG9ja2VBbGFuYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Alana =====
+[1]Alana       |08:43:01 | 11-10-2026| login OK @alanazerica | score=860 rank=6781
+[1]Alana       |08:43:01 | 11-10-2026| serverTime=2026-10-11T08:43:01.000Z local=2026-10-11T08:43:01.386Z
+--> [1]Alana menjalankan: Claim Daily
+[1]Alana       |08:43:02 | 11-10-2026| daily: sudah klaim (already=true) score=860
+--> [1]Alana menjalankan: Auto All Tasks (3 pending)
+[1]Alana       |08:43:08 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alanazerica/status/2109202589448366379
+[1]Alana       |08:43:08 | 11-10-2026| delay 10s...
+[1]Alana       |08:43:21 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alanazerica/status/2109202902641403634
+[1]Alana       |08:43:21 | 11-10-2026| delay 10s...
+[1]Alana       |08:43:34 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alanazerica/status/2109202714333503565
+[1]Alana       |08:43:34 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Alana       |08:43:37 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/alanazerica/status/2109202735165779149
+--> [1]Alana menjalankan: Watch Anime
+[1]Alana       |08:43:38 | 11-10-2026| watch: 4 video belum completed: oshi-first-journey,ep2,ep5,ep6
+[1]Alana       |08:43:38 | 11-10-2026| watch [1/4] farming oshi-first-journey...
+[1]Alana       |08:43:44 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Alana       |08:43:54 | 11-10-2026| watch oshi-first-journey: 10% (9.24/87.00s)
+[1]Alana       |08:44:02 | 11-10-2026| watch oshi-first-journey: 19% (17.03/87.00s)
+[1]Alana       |08:44:11 | 11-10-2026| watch oshi-first-journey: 27% (23.86/87.00s)
+[1]Alana       |08:44:23 | 11-10-2026| watch oshi-first-journey: 37% (32.28/87.00s)
+[1]Alana       |08:44:31 | 11-10-2026| watch oshi-first-journey: 46% (40.19/87.00s)
+[1]Alana       |08:44:38 | 11-10-2026| watch oshi-first-journey: 53% (46.88/87.00s)
+[1]Alana       |08:44:45 | 11-10-2026| watch oshi-first-journey: 61% (53.57/87.00s)
+[1]Alana       |08:44:51 | 11-10-2026| watch oshi-first-journey: 68% (59.63/87.00s)
+[1]Alana       |08:44:58 | 11-10-2026| watch oshi-first-journey: 75% (65.69/87.00s)
+[1]Alana       |08:45:05 | 11-10-2026| watch oshi-first-journey: 81% (71.24/87.00s)
+[1]Alana       |08:45:13 | 11-10-2026| watch oshi-first-journey: 89% (78.21/87.00s)
+[1]Alana       |08:45:21 | 11-10-2026| watch oshi-first-journey: 94% (82.54/87.00s)
+[1]Alana       |08:45:21 | 11-10-2026| watch oshi-first-journey: COMPLETED (82.54/87.00s)
+[1]Alana       |08:45:26 | 11-10-2026| watch [2/4] farming ep2...
+[1]Alana       |08:45:26 | 11-10-2026| watch ep2: start GAGAL http=503
+[1]Alana       |08:45:31 | 11-10-2026| watch [3/4] farming ep5...
+[1]Alana       |08:45:33 | 11-10-2026| watch ep5: mulai dari 0 (record 40.0s diabaikan)
+[1]Alana       |08:45:34 | 11-10-2026| watch ep5: 10% (40.03/396.00s)
+[1]Alana       |08:45:42 | 11-10-2026| watch ep5: 10% (40.03/396.00s)
+[1]Alana       |08:45:49 | 11-10-2026| watch ep5: 10% (40.83/396.00s)
+[1]Alana       |08:45:57 | 11-10-2026| watch ep5: 10% (40.83/396.00s)
+[1]Alana       |08:46:06 | 11-10-2026| watch ep5: 10% (41.08/396.00s)
+[1]Alana       |08:46:12 | 11-10-2026| watch ep5: 10% (41.08/396.00s)
+[1]Alana       |08:46:20 | 11-10-2026| watch ep5: 10% (41.08/396.00s)
+[1]Alana       |08:46:27 | 11-10-2026| watch ep5: 11% (47.26/396.00s)
+[1]Alana       |08:46:34 | 11-10-2026| watch ep5: 13% (53.49/396.00s)
+[1]Alana       |08:46:41 | 11-10-2026| watch ep5: 15% (59.77/396.00s)
+[1]Alana       |08:46:48 | 11-10-2026| watch ep5: 16% (66.02/396.00s)
+[1]Alana       |08:46:54 | 11-10-2026| watch ep5: 18% (71.65/396.00s)
+[1]Alana       |08:47:03 | 11-10-2026| watch ep5: 19% (77.68/396.00s)
+[1]Alana       |08:47:11 | 11-10-2026| watch ep5: 21% (85.54/396.00s)
+[1]Alana       |08:47:20 | 11-10-2026| watch ep5: 23% (93.03/396.00s)
+[1]Alana       |08:47:28 | 11-10-2026| watch ep5: 25% (100.51/396.00s)
+[1]Alana       |08:47:36 | 11-10-2026| watch ep5: 27% (107.59/396.00s)
+[1]Alana       |08:47:47 | 11-10-2026| watch ep5: 29% (115.10/396.00s)
+[1]Alana       |08:47:55 | 11-10-2026| watch ep5: 31% (123.17/396.00s)
+[1]Alana       |08:48:04 | 11-10-2026| watch ep5: 32% (130.53/396.00s)
+[1]Alana       |08:48:11 | 11-10-2026| watch ep5: 34% (137.75/396.00s)
+[1]Alana       |08:48:19 | 11-10-2026| watch ep5: 36% (144.57/396.00s)
+[1]Alana       |08:48:27 | 11-10-2026| watch ep5: 38% (151.71/396.00s)
+[1]Alana       |08:48:34 | 11-10-2026| watch ep5: 40% (158.78/396.00s)
+[1]Alana       |08:48:40 | 11-10-2026| watch ep5: 41% (164.83/396.00s)
+[1]Alana       |08:48:48 | 11-10-2026| watch ep5: 43% (170.76/396.00s)
+[1]Alana       |08:48:56 | 11-10-2026| watch ep5: 44% (178.19/396.00s)
+[1]Alana       |08:49:02 | 11-10-2026| watch ep5: 46% (184.55/396.00s)
+[1]Alana       |08:49:09 | 11-10-2026| watch ep5: 48% (190.27/396.00s)
+[1]Alana       |08:49:15 | 11-10-2026| watch ep5: 49% (196.37/396.00s)
+[1]Alana       |08:49:22 | 11-10-2026| watch ep5: 51% (202.46/396.00s)
+[1]Alana       |08:49:28 | 11-10-2026| watch ep5: 52% (208.11/396.00s)
+[1]Alana       |08:49:35 | 11-10-2026| watch ep5: 53% (213.82/396.00s)
+[1]Alana       |08:49:41 | 11-10-2026| watch ep5: 55% (219.67/396.00s)
+[1]Alana       |08:49:47 | 11-10-2026| watch ep5: 56% (225.25/396.00s)
+[1]Alana       |08:49:53 | 11-10-2026| watch ep5: 58% (230.84/396.00s)
+[1]Alana       |08:50:01 | 11-10-2026| watch ep5: 59% (236.45/396.00s)
+[1]Alana       |08:50:07 | 11-10-2026| watch ep5: 61% (243.54/396.00s)
+[1]Alana       |08:50:14 | 11-10-2026| watch ep5: 62% (249.21/396.00s)
+[1]Alana       |08:50:21 | 11-10-2026| watch ep5: 64% (255.32/396.00s)
+[1]Alana       |08:50:27 | 11-10-2026| watch ep5: 65% (261.23/396.00s)
+[1]Alana       |08:50:35 | 11-10-2026| watch ep5: 67% (266.76/396.00s)
+[1]Alana       |08:50:42 | 11-10-2026| watch ep5: 69% (273.80/396.00s)
+[1]Alana       |08:50:49 | 11-10-2026| watch ep5: 70% (280.03/396.00s)
+[1]Alana       |08:50:55 | 11-10-2026| watch ep5: 72% (286.13/396.00s)
+[1]Alana       |08:51:01 | 11-10-2026| watch ep5: 73% (291.73/396.00s)
+[1]Alana       |08:51:07 | 11-10-2026| watch ep5: 75% (297.34/396.00s)
+[1]Alana       |08:51:15 | 11-10-2026| watch ep5: 76% (302.89/396.00s)
+[1]Alana       |08:51:22 | 11-10-2026| watch ep5: 78% (309.53/396.00s)
+[1]Alana       |08:51:28 | 11-10-2026| watch ep5: 79% (316.18/396.00s)
+[1]Alana       |08:51:37 | 11-10-2026| watch ep5: 81% (321.78/396.00s)
+[1]Alana       |08:51:44 | 11-10-2026| watch ep5: 83% (329.13/396.00s)
+[1]Alana       |08:51:51 | 11-10-2026| watch ep5: 84% (335.76/396.00s)
+[1]Alana       |08:51:58 | 11-10-2026| watch ep5: 86% (341.97/396.00s)
+[1]Alana       |08:52:08 | 11-10-2026| watch ep5: 87% (348.39/396.00s)
+[1]Alana       |08:52:15 | 11-10-2026| watch ep5: 90% (356.59/396.00s)
+[1]Alana       |08:52:15 | 11-10-2026| watch ep5: COMPLETED (356.59/396.00s)
+[1]Alana       |08:52:20 | 11-10-2026| watch [4/4] farming ep6...
+[1]Alana       |08:52:20 | 11-10-2026| watch ep6: mulai dari 0 (record 158.5s diabaikan)
+[1]Alana       |08:52:21 | 11-10-2026| watch ep6: 39% (158.46/404.00s)
+[1]Alana       |08:52:29 | 11-10-2026| watch ep6: 39% (158.76/404.00s)
+[1]Alana       |08:52:37 | 11-10-2026| watch ep6: 39% (158.76/404.00s)
+[1]Alana       |08:52:44 | 11-10-2026| watch ep6: 39% (158.76/404.00s)
+[1]Alana       |08:52:51 | 11-10-2026| watch ep6: 39% (158.76/404.00s)
+[1]Alana       |08:52:59 | 11-10-2026| watch ep6: 39% (159.52/404.00s)
+[1]Alana       |08:53:07 | 11-10-2026| watch ep6: 39% (159.52/404.00s)
+[1]Alana       |08:53:13 | 11-10-2026| watch ep6: 39% (159.52/404.00s)
+[1]Alana       |08:53:20 | 11-10-2026| watch ep6: 39% (159.79/404.00s)
+[1]Alana       |08:53:27 | 11-10-2026| watch ep6: 39% (159.79/404.00s)
+[1]Alana       |08:53:33 | 11-10-2026| watch ep6: 39% (160.06/404.00s)
+[1]Alana       |08:53:40 | 11-10-2026| watch ep6: 39% (160.06/404.00s)
+[1]Alana       |08:53:47 | 11-10-2026| watch ep6: 39% (160.35/404.00s)
+[1]Alana       |08:53:54 | 11-10-2026| watch ep6: 40% (161.99/404.00s)
+[1]Alana       |08:54:00 | 11-10-2026| watch ep6: 40% (161.99/404.00s)
+[1]Alana       |08:54:06 | 11-10-2026| watch ep6: 40% (162.59/404.00s)
+[1]Alana       |08:54:14 | 11-10-2026| watch ep6: 40% (162.59/404.00s)
+[1]Alana       |08:54:23 | 11-10-2026| watch ep6: 40% (162.59/404.00s)
+[1]Alana       |08:54:29 | 11-10-2026| watch ep6: 40% (164.36/404.00s)
+[1]Alana       |08:54:37 | 11-10-2026| watch ep6: 40% (164.36/404.00s)
+[1]Alana       |08:54:46 | 11-10-2026| watch ep6: 40% (164.36/404.00s)
+[1]Alana       |08:54:57 | 11-10-2026| watch ep6: 40% (165.23/404.00s)
+[1]Alana       |08:55:03 | 11-10-2026| watch ep6: 40% (165.23/404.00s)
+[1]Alana       |08:55:12 | 11-10-2026| watch ep6: 40% (165.23/404.00s)
+[1]Alana       |08:55:19 | 11-10-2026| watch ep6: 41% (166.09/404.00s)
+[1]Alana       |08:55:29 | 11-10-2026| watch ep6: 41% (166.09/404.00s)
+[1]Alana       |08:55:35 | 11-10-2026| watch ep6: 43% (174.06/404.00s)
+[1]Alana       |08:55:45 | 11-10-2026| watch ep6: 44% (180.21/404.00s)
+[1]Alana       |08:55:53 | 11-10-2026| watch ep6: 46% (187.65/404.00s)
+[1]Alana       |08:56:00 | 11-10-2026| watch ep6: 48% (194.18/404.00s)
+[1]Alana       |08:56:08 | 11-10-2026| watch ep6: 49% (200.87/404.00s)
+[1]Alana       |08:56:16 | 11-10-2026| watch ep6: 51% (207.78/404.00s)
+[1]Alana       |08:56:24 | 11-10-2026| watch ep6: 53% (214.92/404.00s)
+[1]Alana       |08:56:30 | 11-10-2026| watch ep6: 54% (221.52/404.00s)
+[1]Alana       |08:56:37 | 11-10-2026| watch ep6: 56% (227.49/404.00s)
+[1]Alana       |08:56:43 | 11-10-2026| watch ep6: 57% (233.46/404.00s)
+[1]Alana       |08:56:51 | 11-10-2026| watch ep6: 59% (239.05/404.00s)
+[1]Alana       |08:56:58 | 11-10-2026| watch ep6: 60% (245.80/404.00s)
+[1]Alana       |08:57:04 | 11-10-2026| watch ep6: 62% (252.03/404.00s)
+[1]Alana       |08:57:11 | 11-10-2026| watch ep6: 63% (257.61/404.00s)
+[1]Alana       |08:57:18 | 11-10-2026| watch ep6: 65% (263.84/404.00s)
+[1]Alana       |08:57:24 | 11-10-2026| watch ep6: 66% (269.43/404.00s)
+[1]Alana       |08:57:31 | 11-10-2026| watch ep6: 68% (275.06/404.00s)
+[1]Alana       |08:57:38 | 11-10-2026| watch ep6: 69% (281.30/404.00s)
+[1]Alana       |08:57:45 | 11-10-2026| watch ep6: 71% (287.89/404.00s)
+[1]Alana       |08:57:51 | 11-10-2026| watch ep6: 72% (293.88/404.00s)
+[1]Alana       |08:57:57 | 11-10-2026| watch ep6: 74% (299.44/404.00s)
+[1]Alana       |08:58:04 | 11-10-2026| watch ep6: 75% (305.08/404.00s)
+[1]Alana       |08:58:12 | 11-10-2026| watch ep6: 77% (311.36/404.00s)
+[1]Alana       |08:58:23 | 11-10-2026| watch ep6: 78% (318.37/404.00s)
+[1]Alana       |08:58:31 | 11-10-2026| watch ep6: 80% (326.01/404.00s)
+[1]Alana       |08:58:38 | 11-10-2026| watch ep6: 82% (332.83/404.00s)
+[1]Alana       |08:58:46 | 11-10-2026| watch ep6: 83% (338.78/404.00s)
+[1]Alana       |08:58:52 | 11-10-2026| watch ep6: 85% (344.96/404.00s)
+[1]Alana       |08:58:59 | 11-10-2026| watch ep6: 86% (350.51/404.00s)
+[1]Alana       |08:59:07 | 11-10-2026| watch ep6: 88% (356.63/404.00s)
+[1]Alana       |08:59:13 | 11-10-2026| watch ep6: 89% (362.81/404.00s)
+[1]Alana       |08:59:20 | 11-10-2026| watch ep6: 91% (368.37/404.00s)
+[1]Alana       |08:59:20 | 11-10-2026| watch ep6: COMPLETED (368.37/404.00s)
+--> [1]Alana menjalankan: Read Article
+[1]Alana       |08:59:21 | 11-10-2026| news: 0/24 artikel selesai dibaca
+[1]Alana       |08:59:22 | 11-10-2026| mint eligibility: {"userId":"1918733235850448896","youtube":{"url":"https://www.youtube.com/@alanazerica","status":"submitted","revision":"e9cc74fe-b870-4075-83c5-f06be8dadfa1","submittedAt":1791682740,"reviewedAt":179
+[1]Alana       |08:59:30 | 11-10-2026| news [1/24] oshi-clash-100000-battles: OK completed=1
+[1]Alana       |08:59:39 | 11-10-2026| news [2/24] whitepaper-v2-2: OK completed=2
+[1]Alana       |08:59:47 | 11-10-2026| news [3/24] smart-pocket-referral-rewards: OK completed=3
+[1]Alana       |09:00:01 | 11-10-2026| news [4/24] spaceship-and-studio-friends: OK completed=4
+[1]Alana       |09:00:11 | 11-10-2026| news [5/24] swap-arena-stars-guide: OK completed=5
+[1]Alana       |09:00:19 | 11-10-2026| news [6/24] kagura-airdrop-guide: OK completed=6
+[1]Alana       |09:00:30 | 11-10-2026| news [7/24] oshi-clash-complete-guide: OK completed=7
+[1]Alana       |09:00:42 | 11-10-2026| news [8/24] oshi-clash-launch: OK completed=8
+[1]Alana       |09:00:50 | 11-10-2026| news smart-pocket-monthly-2026-09: complete GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Alana       |09:00:52 | 11-10-2026| news oshi-labs-monthly-2026-09: view GAGAL http=503
+[1]Alana       |09:00:52 | 11-10-2026| news oshi-news-launch: view GAGAL http=503
+[1]Alana       |09:00:52 | 11-10-2026| news yuki-character-design: view GAGAL http=503
+[1]Alana       |09:00:52 | 11-10-2026| news smart-pocket-mobile-apps: view GAGAL http=503
+[1]Alana       |09:00:52 | 11-10-2026| news smart-pocket-read-a-card: view GAGAL http=503
+[1]Alana       |09:00:52 | 11-10-2026| news start-your-fan-creation: view GAGAL http=503
+[1]Alana       |09:00:52 | 11-10-2026| news complete-your-first-task: view GAGAL http=503
+[1]Alana       |09:00:52 | 11-10-2026| news understand-the-rankings: view GAGAL http=503
+[1]Alana       |09:00:52 | 11-10-2026| news unlock-and-save-icons: view GAGAL http=503
+[1]Alana       |09:00:52 | 11-10-2026| news start-here: view GAGAL http=503
+[1]Alana       |09:00:52 | 11-10-2026| news what-is-free-mint: view GAGAL http=503
+[1]Alana       |09:00:52 | 11-10-2026| news what-is-nft: view GAGAL http=503
+[1]Alana       |09:00:52 | 11-10-2026| news prepare-your-wallet: view GAGAL http=503
+[1]Alana       |09:00:52 | 11-10-2026| news find-your-anime: view GAGAL http=503
+[1]Alana       |09:00:52 | 11-10-2026| news smart-pocket-first-steps: view GAGAL http=503
+--> [1]Alana menjalankan: Quiz Anime
+[1]Alana       |09:00:52 | 11-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Alana menjalankan: Music Missions (realtime, bisa lama!)
+[1]Alana       |09:00:53 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Alana       |09:00:53 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Alana menjalankan: Claim Missions
+[1]Alana       |09:00:53 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Alana menjalankan: Check Eligibility
+
+--- eligibility [1]Alana ---
+  @alanazerica | score=860 rank=6781
+  tasks    [###################-] 73/76
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+--> [1]Alana menjalankan: Read Manga
+[1]Alana       |09:00:53 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Alana menjalankan: Get Gift
+[1]Alana       |09:00:53 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Alana menjalankan: Setup Profile
+[1]Alana       |09:00:53 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Alana menjalankan: Bind Wallet
+[1]Alana       |09:00:53 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+== RINGKASAN ==
+- Alana: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 3/4 completed | musik 0 trek ~0s | artikel 8 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
