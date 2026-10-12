@@ -12,211 +12,600 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Alana =====
-[1]Alana       |08:43:01 | 11-10-2026| login OK @alanazerica | score=860 rank=6781
-[1]Alana       |08:43:01 | 11-10-2026| serverTime=2026-10-11T08:43:01.000Z local=2026-10-11T08:43:01.386Z
+[1]Alana       |17:26:07 | 12-10-2026| login OK @alanazerica | score=890 rank=6959
+[1]Alana       |17:26:07 | 12-10-2026| serverTime=2026-10-12T17:26:07.000Z local=2026-10-12T17:26:07.416Z
 --> [1]Alana menjalankan: Claim Daily
-[1]Alana       |08:43:02 | 11-10-2026| daily: sudah klaim (already=true) score=860
---> [1]Alana menjalankan: Auto All Tasks (3 pending)
-[1]Alana       |08:43:08 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alanazerica/status/2109202589448366379
-[1]Alana       |08:43:08 | 11-10-2026| delay 10s...
-[1]Alana       |08:43:21 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alanazerica/status/2109202902641403634
-[1]Alana       |08:43:21 | 11-10-2026| delay 10s...
-[1]Alana       |08:43:34 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alanazerica/status/2109202714333503565
-[1]Alana       |08:43:34 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Alana       |08:43:37 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/alanazerica/status/2109202735165779149
+[1]Alana       |17:26:08 | 12-10-2026| daily: OK +10 poin score=900
+--> [1]Alana menjalankan: Auto All Tasks (10 pending)
+[1]Alana       |17:26:10 | 12-10-2026| [1/10] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alanazerica/status/2109696661679003992
+[1]Alana       |17:26:10 | 12-10-2026| delay 10s...
+[1]Alana       |17:26:23 | 12-10-2026| [2/10] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alanazerica/status/2109696759535808452
+[1]Alana       |17:26:23 | 12-10-2026| delay 10s...
+[1]Alana       |17:26:35 | 12-10-2026| [3/10] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alanazerica/status/2109696852643398003
+[1]Alana       |17:26:35 | 12-10-2026| delay 10s...
+[1]Alana       |17:26:47 | 12-10-2026| [4/10] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alanazerica/status/2109696810798458019
+[1]Alana       |17:26:47 | 12-10-2026| delay 10s...
+[1]Alana       |17:27:00 | 12-10-2026| [5/10] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Alana       |17:27:00 | 12-10-2026| delay 10s...
+[1]Alana       |17:27:12 | 12-10-2026| [6/10] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alanazerica/status/2109696789852345499
+[1]Alana       |17:27:12 | 12-10-2026| delay 10s...
+[1]Alana       |17:27:24 | 12-10-2026| [7/10] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alanazerica/status/2109696928885959577
+[1]Alana       |17:27:24 | 12-10-2026| delay 10s...
+[1]Alana       |17:27:37 | 12-10-2026| [8/10] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alanazerica/status/2109697109367680757
+[1]Alana       |17:27:37 | 12-10-2026| delay 10s...
+[1]Alana       |17:27:48 | 12-10-2026| [9/10] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alanazerica/status/2109697217593121693
+[1]Alana       |17:27:48 | 12-10-2026| delay 10s...
+[1]Alana       |17:28:02 | 12-10-2026| [10/10] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Alana       |17:28:02 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Alana       |17:28:03 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/alanazerica/status/2109697108568233651
 --> [1]Alana menjalankan: Watch Anime
-[1]Alana       |08:43:38 | 11-10-2026| watch: 4 video belum completed: oshi-first-journey,ep2,ep5,ep6
-[1]Alana       |08:43:38 | 11-10-2026| watch [1/4] farming oshi-first-journey...
-[1]Alana       |08:43:44 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Alana       |08:43:54 | 11-10-2026| watch oshi-first-journey: 10% (9.24/87.00s)
-[1]Alana       |08:44:02 | 11-10-2026| watch oshi-first-journey: 19% (17.03/87.00s)
-[1]Alana       |08:44:11 | 11-10-2026| watch oshi-first-journey: 27% (23.86/87.00s)
-[1]Alana       |08:44:23 | 11-10-2026| watch oshi-first-journey: 37% (32.28/87.00s)
-[1]Alana       |08:44:31 | 11-10-2026| watch oshi-first-journey: 46% (40.19/87.00s)
-[1]Alana       |08:44:38 | 11-10-2026| watch oshi-first-journey: 53% (46.88/87.00s)
-[1]Alana       |08:44:45 | 11-10-2026| watch oshi-first-journey: 61% (53.57/87.00s)
-[1]Alana       |08:44:51 | 11-10-2026| watch oshi-first-journey: 68% (59.63/87.00s)
-[1]Alana       |08:44:58 | 11-10-2026| watch oshi-first-journey: 75% (65.69/87.00s)
-[1]Alana       |08:45:05 | 11-10-2026| watch oshi-first-journey: 81% (71.24/87.00s)
-[1]Alana       |08:45:13 | 11-10-2026| watch oshi-first-journey: 89% (78.21/87.00s)
-[1]Alana       |08:45:21 | 11-10-2026| watch oshi-first-journey: 94% (82.54/87.00s)
-[1]Alana       |08:45:21 | 11-10-2026| watch oshi-first-journey: COMPLETED (82.54/87.00s)
-[1]Alana       |08:45:26 | 11-10-2026| watch [2/4] farming ep2...
-[1]Alana       |08:45:26 | 11-10-2026| watch ep2: start GAGAL http=503
-[1]Alana       |08:45:31 | 11-10-2026| watch [3/4] farming ep5...
-[1]Alana       |08:45:33 | 11-10-2026| watch ep5: mulai dari 0 (record 40.0s diabaikan)
-[1]Alana       |08:45:34 | 11-10-2026| watch ep5: 10% (40.03/396.00s)
-[1]Alana       |08:45:42 | 11-10-2026| watch ep5: 10% (40.03/396.00s)
-[1]Alana       |08:45:49 | 11-10-2026| watch ep5: 10% (40.83/396.00s)
-[1]Alana       |08:45:57 | 11-10-2026| watch ep5: 10% (40.83/396.00s)
-[1]Alana       |08:46:06 | 11-10-2026| watch ep5: 10% (41.08/396.00s)
-[1]Alana       |08:46:12 | 11-10-2026| watch ep5: 10% (41.08/396.00s)
-[1]Alana       |08:46:20 | 11-10-2026| watch ep5: 10% (41.08/396.00s)
-[1]Alana       |08:46:27 | 11-10-2026| watch ep5: 11% (47.26/396.00s)
-[1]Alana       |08:46:34 | 11-10-2026| watch ep5: 13% (53.49/396.00s)
-[1]Alana       |08:46:41 | 11-10-2026| watch ep5: 15% (59.77/396.00s)
-[1]Alana       |08:46:48 | 11-10-2026| watch ep5: 16% (66.02/396.00s)
-[1]Alana       |08:46:54 | 11-10-2026| watch ep5: 18% (71.65/396.00s)
-[1]Alana       |08:47:03 | 11-10-2026| watch ep5: 19% (77.68/396.00s)
-[1]Alana       |08:47:11 | 11-10-2026| watch ep5: 21% (85.54/396.00s)
-[1]Alana       |08:47:20 | 11-10-2026| watch ep5: 23% (93.03/396.00s)
-[1]Alana       |08:47:28 | 11-10-2026| watch ep5: 25% (100.51/396.00s)
-[1]Alana       |08:47:36 | 11-10-2026| watch ep5: 27% (107.59/396.00s)
-[1]Alana       |08:47:47 | 11-10-2026| watch ep5: 29% (115.10/396.00s)
-[1]Alana       |08:47:55 | 11-10-2026| watch ep5: 31% (123.17/396.00s)
-[1]Alana       |08:48:04 | 11-10-2026| watch ep5: 32% (130.53/396.00s)
-[1]Alana       |08:48:11 | 11-10-2026| watch ep5: 34% (137.75/396.00s)
-[1]Alana       |08:48:19 | 11-10-2026| watch ep5: 36% (144.57/396.00s)
-[1]Alana       |08:48:27 | 11-10-2026| watch ep5: 38% (151.71/396.00s)
-[1]Alana       |08:48:34 | 11-10-2026| watch ep5: 40% (158.78/396.00s)
-[1]Alana       |08:48:40 | 11-10-2026| watch ep5: 41% (164.83/396.00s)
-[1]Alana       |08:48:48 | 11-10-2026| watch ep5: 43% (170.76/396.00s)
-[1]Alana       |08:48:56 | 11-10-2026| watch ep5: 44% (178.19/396.00s)
-[1]Alana       |08:49:02 | 11-10-2026| watch ep5: 46% (184.55/396.00s)
-[1]Alana       |08:49:09 | 11-10-2026| watch ep5: 48% (190.27/396.00s)
-[1]Alana       |08:49:15 | 11-10-2026| watch ep5: 49% (196.37/396.00s)
-[1]Alana       |08:49:22 | 11-10-2026| watch ep5: 51% (202.46/396.00s)
-[1]Alana       |08:49:28 | 11-10-2026| watch ep5: 52% (208.11/396.00s)
-[1]Alana       |08:49:35 | 11-10-2026| watch ep5: 53% (213.82/396.00s)
-[1]Alana       |08:49:41 | 11-10-2026| watch ep5: 55% (219.67/396.00s)
-[1]Alana       |08:49:47 | 11-10-2026| watch ep5: 56% (225.25/396.00s)
-[1]Alana       |08:49:53 | 11-10-2026| watch ep5: 58% (230.84/396.00s)
-[1]Alana       |08:50:01 | 11-10-2026| watch ep5: 59% (236.45/396.00s)
-[1]Alana       |08:50:07 | 11-10-2026| watch ep5: 61% (243.54/396.00s)
-[1]Alana       |08:50:14 | 11-10-2026| watch ep5: 62% (249.21/396.00s)
-[1]Alana       |08:50:21 | 11-10-2026| watch ep5: 64% (255.32/396.00s)
-[1]Alana       |08:50:27 | 11-10-2026| watch ep5: 65% (261.23/396.00s)
-[1]Alana       |08:50:35 | 11-10-2026| watch ep5: 67% (266.76/396.00s)
-[1]Alana       |08:50:42 | 11-10-2026| watch ep5: 69% (273.80/396.00s)
-[1]Alana       |08:50:49 | 11-10-2026| watch ep5: 70% (280.03/396.00s)
-[1]Alana       |08:50:55 | 11-10-2026| watch ep5: 72% (286.13/396.00s)
-[1]Alana       |08:51:01 | 11-10-2026| watch ep5: 73% (291.73/396.00s)
-[1]Alana       |08:51:07 | 11-10-2026| watch ep5: 75% (297.34/396.00s)
-[1]Alana       |08:51:15 | 11-10-2026| watch ep5: 76% (302.89/396.00s)
-[1]Alana       |08:51:22 | 11-10-2026| watch ep5: 78% (309.53/396.00s)
-[1]Alana       |08:51:28 | 11-10-2026| watch ep5: 79% (316.18/396.00s)
-[1]Alana       |08:51:37 | 11-10-2026| watch ep5: 81% (321.78/396.00s)
-[1]Alana       |08:51:44 | 11-10-2026| watch ep5: 83% (329.13/396.00s)
-[1]Alana       |08:51:51 | 11-10-2026| watch ep5: 84% (335.76/396.00s)
-[1]Alana       |08:51:58 | 11-10-2026| watch ep5: 86% (341.97/396.00s)
-[1]Alana       |08:52:08 | 11-10-2026| watch ep5: 87% (348.39/396.00s)
-[1]Alana       |08:52:15 | 11-10-2026| watch ep5: 90% (356.59/396.00s)
-[1]Alana       |08:52:15 | 11-10-2026| watch ep5: COMPLETED (356.59/396.00s)
-[1]Alana       |08:52:20 | 11-10-2026| watch [4/4] farming ep6...
-[1]Alana       |08:52:20 | 11-10-2026| watch ep6: mulai dari 0 (record 158.5s diabaikan)
-[1]Alana       |08:52:21 | 11-10-2026| watch ep6: 39% (158.46/404.00s)
-[1]Alana       |08:52:29 | 11-10-2026| watch ep6: 39% (158.76/404.00s)
-[1]Alana       |08:52:37 | 11-10-2026| watch ep6: 39% (158.76/404.00s)
-[1]Alana       |08:52:44 | 11-10-2026| watch ep6: 39% (158.76/404.00s)
-[1]Alana       |08:52:51 | 11-10-2026| watch ep6: 39% (158.76/404.00s)
-[1]Alana       |08:52:59 | 11-10-2026| watch ep6: 39% (159.52/404.00s)
-[1]Alana       |08:53:07 | 11-10-2026| watch ep6: 39% (159.52/404.00s)
-[1]Alana       |08:53:13 | 11-10-2026| watch ep6: 39% (159.52/404.00s)
-[1]Alana       |08:53:20 | 11-10-2026| watch ep6: 39% (159.79/404.00s)
-[1]Alana       |08:53:27 | 11-10-2026| watch ep6: 39% (159.79/404.00s)
-[1]Alana       |08:53:33 | 11-10-2026| watch ep6: 39% (160.06/404.00s)
-[1]Alana       |08:53:40 | 11-10-2026| watch ep6: 39% (160.06/404.00s)
-[1]Alana       |08:53:47 | 11-10-2026| watch ep6: 39% (160.35/404.00s)
-[1]Alana       |08:53:54 | 11-10-2026| watch ep6: 40% (161.99/404.00s)
-[1]Alana       |08:54:00 | 11-10-2026| watch ep6: 40% (161.99/404.00s)
-[1]Alana       |08:54:06 | 11-10-2026| watch ep6: 40% (162.59/404.00s)
-[1]Alana       |08:54:14 | 11-10-2026| watch ep6: 40% (162.59/404.00s)
-[1]Alana       |08:54:23 | 11-10-2026| watch ep6: 40% (162.59/404.00s)
-[1]Alana       |08:54:29 | 11-10-2026| watch ep6: 40% (164.36/404.00s)
-[1]Alana       |08:54:37 | 11-10-2026| watch ep6: 40% (164.36/404.00s)
-[1]Alana       |08:54:46 | 11-10-2026| watch ep6: 40% (164.36/404.00s)
-[1]Alana       |08:54:57 | 11-10-2026| watch ep6: 40% (165.23/404.00s)
-[1]Alana       |08:55:03 | 11-10-2026| watch ep6: 40% (165.23/404.00s)
-[1]Alana       |08:55:12 | 11-10-2026| watch ep6: 40% (165.23/404.00s)
-[1]Alana       |08:55:19 | 11-10-2026| watch ep6: 41% (166.09/404.00s)
-[1]Alana       |08:55:29 | 11-10-2026| watch ep6: 41% (166.09/404.00s)
-[1]Alana       |08:55:35 | 11-10-2026| watch ep6: 43% (174.06/404.00s)
-[1]Alana       |08:55:45 | 11-10-2026| watch ep6: 44% (180.21/404.00s)
-[1]Alana       |08:55:53 | 11-10-2026| watch ep6: 46% (187.65/404.00s)
-[1]Alana       |08:56:00 | 11-10-2026| watch ep6: 48% (194.18/404.00s)
-[1]Alana       |08:56:08 | 11-10-2026| watch ep6: 49% (200.87/404.00s)
-[1]Alana       |08:56:16 | 11-10-2026| watch ep6: 51% (207.78/404.00s)
-[1]Alana       |08:56:24 | 11-10-2026| watch ep6: 53% (214.92/404.00s)
-[1]Alana       |08:56:30 | 11-10-2026| watch ep6: 54% (221.52/404.00s)
-[1]Alana       |08:56:37 | 11-10-2026| watch ep6: 56% (227.49/404.00s)
-[1]Alana       |08:56:43 | 11-10-2026| watch ep6: 57% (233.46/404.00s)
-[1]Alana       |08:56:51 | 11-10-2026| watch ep6: 59% (239.05/404.00s)
-[1]Alana       |08:56:58 | 11-10-2026| watch ep6: 60% (245.80/404.00s)
-[1]Alana       |08:57:04 | 11-10-2026| watch ep6: 62% (252.03/404.00s)
-[1]Alana       |08:57:11 | 11-10-2026| watch ep6: 63% (257.61/404.00s)
-[1]Alana       |08:57:18 | 11-10-2026| watch ep6: 65% (263.84/404.00s)
-[1]Alana       |08:57:24 | 11-10-2026| watch ep6: 66% (269.43/404.00s)
-[1]Alana       |08:57:31 | 11-10-2026| watch ep6: 68% (275.06/404.00s)
-[1]Alana       |08:57:38 | 11-10-2026| watch ep6: 69% (281.30/404.00s)
-[1]Alana       |08:57:45 | 11-10-2026| watch ep6: 71% (287.89/404.00s)
-[1]Alana       |08:57:51 | 11-10-2026| watch ep6: 72% (293.88/404.00s)
-[1]Alana       |08:57:57 | 11-10-2026| watch ep6: 74% (299.44/404.00s)
-[1]Alana       |08:58:04 | 11-10-2026| watch ep6: 75% (305.08/404.00s)
-[1]Alana       |08:58:12 | 11-10-2026| watch ep6: 77% (311.36/404.00s)
-[1]Alana       |08:58:23 | 11-10-2026| watch ep6: 78% (318.37/404.00s)
-[1]Alana       |08:58:31 | 11-10-2026| watch ep6: 80% (326.01/404.00s)
-[1]Alana       |08:58:38 | 11-10-2026| watch ep6: 82% (332.83/404.00s)
-[1]Alana       |08:58:46 | 11-10-2026| watch ep6: 83% (338.78/404.00s)
-[1]Alana       |08:58:52 | 11-10-2026| watch ep6: 85% (344.96/404.00s)
-[1]Alana       |08:58:59 | 11-10-2026| watch ep6: 86% (350.51/404.00s)
-[1]Alana       |08:59:07 | 11-10-2026| watch ep6: 88% (356.63/404.00s)
-[1]Alana       |08:59:13 | 11-10-2026| watch ep6: 89% (362.81/404.00s)
-[1]Alana       |08:59:20 | 11-10-2026| watch ep6: 91% (368.37/404.00s)
-[1]Alana       |08:59:20 | 11-10-2026| watch ep6: COMPLETED (368.37/404.00s)
+[1]Alana       |17:28:04 | 12-10-2026| watch: 1 video belum completed: ep2
+[1]Alana       |17:28:04 | 12-10-2026| watch [1/1] farming ep2...
+[1]Alana       |17:28:05 | 12-10-2026| watch ep2: mulai dari 0 (record 30.9s diabaikan)
+[1]Alana       |17:28:06 | 12-10-2026| watch ep2: 7% (30.93/406.00s)
+[1]Alana       |17:28:13 | 12-10-2026| watch ep2: 7% (30.93/406.00s)
+[1]Alana       |17:28:19 | 12-10-2026| watch ep2: 7% (30.93/406.00s)
+[1]Alana       |17:28:26 | 12-10-2026| watch ep2: 7% (31.17/406.00s)
+[1]Alana       |17:28:32 | 12-10-2026| watch ep2: 7% (31.17/406.00s)
+[1]Alana       |17:28:38 | 12-10-2026| watch ep2: 7% (31.17/406.00s)
+[1]Alana       |17:28:44 | 12-10-2026| watch ep2: 8% (34.27/406.00s)
+[1]Alana       |17:28:51 | 12-10-2026| watch ep2: 9% (40.13/406.00s)
+[1]Alana       |17:28:57 | 12-10-2026| watch ep2: 11% (45.67/406.00s)
+[1]Alana       |17:29:03 | 12-10-2026| watch ep2: 12% (51.16/406.00s)
+[1]Alana       |17:29:09 | 12-10-2026| watch ep2: 13% (56.78/406.00s)
+[1]Alana       |17:29:15 | 12-10-2026| watch ep2: 15% (62.39/406.00s)
+[1]Alana       |17:29:22 | 12-10-2026| watch ep2: 16% (67.90/406.00s)
+[1]Alana       |17:29:28 | 12-10-2026| watch ep2: 18% (74.01/406.00s)
+[1]Alana       |17:29:35 | 12-10-2026| watch ep2: 19% (79.78/406.00s)
+[1]Alana       |17:29:41 | 12-10-2026| watch ep2: 21% (85.47/406.00s)
+[1]Alana       |17:29:47 | 12-10-2026| watch ep2: 22% (90.93/406.00s)
+[1]Alana       |17:29:53 | 12-10-2026| watch ep2: 23% (96.46/406.00s)
+[1]Alana       |17:30:00 | 12-10-2026| watch ep2: 25% (102.03/406.00s)
+[1]Alana       |17:30:06 | 12-10-2026| watch ep2: 26% (107.88/406.00s)
+[1]Alana       |17:30:12 | 12-10-2026| watch ep2: 27% (113.42/406.00s)
+[1]Alana       |17:30:18 | 12-10-2026| watch ep2: 29% (118.91/406.00s)
+[1]Alana       |17:30:25 | 12-10-2026| watch ep2: 30% (124.64/406.00s)
+[1]Alana       |17:30:31 | 12-10-2026| watch ep2: 32% (130.30/406.00s)
+[1]Alana       |17:30:38 | 12-10-2026| watch ep2: 33% (136.11/406.00s)
+[1]Alana       |17:30:44 | 12-10-2026| watch ep2: 34% (142.10/406.00s)
+[1]Alana       |17:30:50 | 12-10-2026| watch ep2: 36% (147.75/406.00s)
+[1]Alana       |17:30:57 | 12-10-2026| watch ep2: 37% (153.42/406.00s)
+[1]Alana       |17:31:03 | 12-10-2026| watch ep2: 39% (159.36/406.00s)
+[1]Alana       |17:31:11 | 12-10-2026| watch ep2: 40% (165.02/406.00s)
+[1]Alana       |17:31:17 | 12-10-2026| watch ep2: 42% (171.29/406.00s)
+[1]Alana       |17:31:23 | 12-10-2026| watch ep2: 43% (177.42/406.00s)
+[1]Alana       |17:31:30 | 12-10-2026| watch ep2: 45% (183.29/406.00s)
+[1]Alana       |17:31:36 | 12-10-2026| watch ep2: 46% (189.01/406.00s)
+[1]Alana       |17:31:43 | 12-10-2026| watch ep2: 47% (194.57/406.00s)
+[1]Alana       |17:31:49 | 12-10-2026| watch ep2: 49% (200.43/406.00s)
+[1]Alana       |17:31:55 | 12-10-2026| watch ep2: 50% (205.96/406.00s)
+[1]Alana       |17:32:02 | 12-10-2026| watch ep2: 52% (212.03/406.00s)
+[1]Alana       |17:32:08 | 12-10-2026| watch ep2: 53% (217.60/406.00s)
+[1]Alana       |17:32:15 | 12-10-2026| watch ep2: 55% (223.33/406.00s)
+[1]Alana       |17:32:21 | 12-10-2026| watch ep2: 56% (229.33/406.00s)
+[1]Alana       |17:32:27 | 12-10-2026| watch ep2: 57% (234.88/406.00s)
+[1]Alana       |17:32:35 | 12-10-2026| watch ep2: 59% (240.64/406.00s)
+[1]Alana       |17:32:41 | 12-10-2026| watch ep2: 60% (247.26/406.00s)
+[1]Alana       |17:32:47 | 12-10-2026| watch ep2: 62% (253.35/406.00s)
+[1]Alana       |17:32:54 | 12-10-2026| watch ep2: 63% (258.86/406.00s)
+[1]Alana       |17:33:00 | 12-10-2026| watch ep2: 65% (264.37/406.00s)
+[1]Alana       |17:33:06 | 12-10-2026| watch ep2: 66% (270.35/406.00s)
+[1]Alana       |17:33:15 | 12-10-2026| watch ep2: 67% (275.80/406.00s)
+[1]Alana       |17:33:21 | 12-10-2026| watch ep2: 69% (282.00/406.00s)
+[1]Alana       |17:33:27 | 12-10-2026| watch ep2: 70% (288.06/406.00s)
+[1]Alana       |17:33:33 | 12-10-2026| watch ep2: 72% (294.27/406.00s)
+[1]Alana       |17:33:40 | 12-10-2026| watch ep2: 73% (299.97/406.00s)
+[1]Alana       |17:33:46 | 12-10-2026| watch ep2: 75% (305.81/406.00s)
+[1]Alana       |17:33:52 | 12-10-2026| watch ep2: 76% (311.32/406.00s)
+[1]Alana       |17:33:58 | 12-10-2026| watch ep2: 78% (317.05/406.00s)
+[1]Alana       |17:34:05 | 12-10-2026| watch ep2: 79% (322.66/406.00s)
+[1]Alana       |17:34:11 | 12-10-2026| watch ep2: 80% (328.53/406.00s)
+[1]Alana       |17:34:17 | 12-10-2026| watch ep2: 82% (333.99/406.00s)
+[1]Alana       |17:34:23 | 12-10-2026| watch ep2: 83% (339.49/406.00s)
+[1]Alana       |17:34:30 | 12-10-2026| watch ep2: 85% (345.25/406.00s)
+[1]Alana       |17:34:36 | 12-10-2026| watch ep2: 86% (350.77/406.00s)
+[1]Alana       |17:34:42 | 12-10-2026| watch ep2: 87% (356.49/406.00s)
+[1]Alana       |17:34:48 | 12-10-2026| watch ep2: 89% (362.16/406.00s)
+[1]Alana       |17:34:55 | 12-10-2026| watch ep2: 90% (367.64/406.00s)
+[1]Alana       |17:34:55 | 12-10-2026| watch ep2: COMPLETED (367.64/406.00s)
 --> [1]Alana menjalankan: Read Article
-[1]Alana       |08:59:21 | 11-10-2026| news: 0/24 artikel selesai dibaca
-[1]Alana       |08:59:22 | 11-10-2026| mint eligibility: {"userId":"1918733235850448896","youtube":{"url":"https://www.youtube.com/@alanazerica","status":"submitted","revision":"e9cc74fe-b870-4075-83c5-f06be8dadfa1","submittedAt":1791682740,"reviewedAt":179
-[1]Alana       |08:59:30 | 11-10-2026| news [1/24] oshi-clash-100000-battles: OK completed=1
-[1]Alana       |08:59:39 | 11-10-2026| news [2/24] whitepaper-v2-2: OK completed=2
-[1]Alana       |08:59:47 | 11-10-2026| news [3/24] smart-pocket-referral-rewards: OK completed=3
-[1]Alana       |09:00:01 | 11-10-2026| news [4/24] spaceship-and-studio-friends: OK completed=4
-[1]Alana       |09:00:11 | 11-10-2026| news [5/24] swap-arena-stars-guide: OK completed=5
-[1]Alana       |09:00:19 | 11-10-2026| news [6/24] kagura-airdrop-guide: OK completed=6
-[1]Alana       |09:00:30 | 11-10-2026| news [7/24] oshi-clash-complete-guide: OK completed=7
-[1]Alana       |09:00:42 | 11-10-2026| news [8/24] oshi-clash-launch: OK completed=8
-[1]Alana       |09:00:50 | 11-10-2026| news smart-pocket-monthly-2026-09: complete GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Alana       |09:00:52 | 11-10-2026| news oshi-labs-monthly-2026-09: view GAGAL http=503
-[1]Alana       |09:00:52 | 11-10-2026| news oshi-news-launch: view GAGAL http=503
-[1]Alana       |09:00:52 | 11-10-2026| news yuki-character-design: view GAGAL http=503
-[1]Alana       |09:00:52 | 11-10-2026| news smart-pocket-mobile-apps: view GAGAL http=503
-[1]Alana       |09:00:52 | 11-10-2026| news smart-pocket-read-a-card: view GAGAL http=503
-[1]Alana       |09:00:52 | 11-10-2026| news start-your-fan-creation: view GAGAL http=503
-[1]Alana       |09:00:52 | 11-10-2026| news complete-your-first-task: view GAGAL http=503
-[1]Alana       |09:00:52 | 11-10-2026| news understand-the-rankings: view GAGAL http=503
-[1]Alana       |09:00:52 | 11-10-2026| news unlock-and-save-icons: view GAGAL http=503
-[1]Alana       |09:00:52 | 11-10-2026| news start-here: view GAGAL http=503
-[1]Alana       |09:00:52 | 11-10-2026| news what-is-free-mint: view GAGAL http=503
-[1]Alana       |09:00:52 | 11-10-2026| news what-is-nft: view GAGAL http=503
-[1]Alana       |09:00:52 | 11-10-2026| news prepare-your-wallet: view GAGAL http=503
-[1]Alana       |09:00:52 | 11-10-2026| news find-your-anime: view GAGAL http=503
-[1]Alana       |09:00:52 | 11-10-2026| news smart-pocket-first-steps: view GAGAL http=503
+[1]Alana       |17:34:56 | 12-10-2026| news: 8/24 artikel selesai dibaca
+[1]Alana       |17:34:56 | 12-10-2026| mint eligibility: {"userId":"1918733235850448896","youtube":{"url":"https://www.youtube.com/@alanazerica","status":"submitted","revision":"e9cc74fe-b870-4075-83c5-f06be8dadfa1","submittedAt":1791682740,"reviewedAt":179
+[1]Alana       |17:35:03 | 12-10-2026| news [1/16] smart-pocket-monthly-2026-09: OK completed=9
+[1]Alana       |17:35:12 | 12-10-2026| news [2/16] oshi-labs-monthly-2026-09: OK completed=10
+[1]Alana       |17:35:21 | 12-10-2026| news [3/16] oshi-news-launch: OK completed=11
+[1]Alana       |17:35:29 | 12-10-2026| news [4/16] yuki-character-design: OK completed=12
+[1]Alana       |17:35:38 | 12-10-2026| news [5/16] smart-pocket-mobile-apps: OK completed=13
+[1]Alana       |17:35:47 | 12-10-2026| news [6/16] smart-pocket-read-a-card: OK completed=14
+[1]Alana       |17:35:56 | 12-10-2026| news [7/16] start-your-fan-creation: OK completed=15
+[1]Alana       |17:36:04 | 12-10-2026| news [8/16] complete-your-first-task: OK completed=16
+[1]Alana       |17:36:13 | 12-10-2026| news [9/16] understand-the-rankings: OK completed=17
+[1]Alana       |17:36:21 | 12-10-2026| news [10/16] unlock-and-save-icons: OK completed=18
+[1]Alana       |17:36:30 | 12-10-2026| news [11/16] start-here: OK completed=19
+[1]Alana       |17:36:39 | 12-10-2026| news [12/16] what-is-free-mint: OK completed=20
+[1]Alana       |17:36:48 | 12-10-2026| news [13/16] what-is-nft: OK completed=21
+[1]Alana       |17:36:56 | 12-10-2026| news [14/16] prepare-your-wallet: OK completed=22
+[1]Alana       |17:37:05 | 12-10-2026| news [15/16] find-your-anime: OK completed=23
+[1]Alana       |17:37:14 | 12-10-2026| news [16/16] smart-pocket-first-steps: OK completed=24
 --> [1]Alana menjalankan: Quiz Anime
-[1]Alana       |09:00:52 | 11-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Alana       |17:37:18 | 12-10-2026| quiz ep1: BENAR (0) +10 poin
+[1]Alana       |17:37:23 | 12-10-2026| quiz ep2: BENAR (1) +10 poin
+[1]Alana       |17:37:28 | 12-10-2026| quiz ep3: BENAR (2) +10 poin
+[1]Alana       |17:37:34 | 12-10-2026| quiz ep4: BENAR (3) +10 poin
+[1]Alana       |17:37:39 | 12-10-2026| quiz ep5: BENAR (0) +10 poin
+[1]Alana       |17:37:44 | 12-10-2026| quiz ep6: BENAR (1) +10 poin
 --> [1]Alana menjalankan: Music Missions (realtime, bisa lama!)
-[1]Alana       |09:00:53 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Alana       |09:00:53 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Alana       |17:37:51 | 12-10-2026| music memutar "この手は覚えてる" (94s)...
+[1]Alana       |17:38:02 | 12-10-2026| music "この手は覚えてる": 9% (9.0063/94s)
+[1]Alana       |17:38:14 | 12-10-2026| music "この手は覚えてる": 20% (19.2393/94s)
+[1]Alana       |17:38:26 | 12-10-2026| music "この手は覚えてる": 32% (30.2391/94s)
+[1]Alana       |17:38:37 | 12-10-2026| music "この手は覚えてる": 42% (40.2588/94s)
+[1]Alana       |17:38:48 | 12-10-2026| music "この手は覚えてる": 53% (50.3793/94s)
+[1]Alana       |17:38:59 | 12-10-2026| music "この手は覚えてる": 64% (60.453900000000004/94s)
+[1]Alana       |17:39:11 | 12-10-2026| music "この手は覚えてる": 75% (70.5501/94s)
+[1]Alana       |17:39:22 | 12-10-2026| music "この手は覚えてる": 86% (81.0774/94s)
+[1]Alana       |17:39:23 | 12-10-2026| music "この手は覚えてる": selesai 81.0774s
+[1]Alana       |17:39:26 | 12-10-2026| music memutar "キャンバス" (125s)...
+[1]Alana       |17:39:37 | 12-10-2026| music "キャンバス": 7% (9.0054/125s)
+[1]Alana       |17:39:48 | 12-10-2026| music "キャンバス": 15% (19.088099999999997/125s)
+[1]Alana       |17:39:59 | 12-10-2026| music "キャンバス": 23% (29.1087/125s)
+[1]Alana       |17:40:10 | 12-10-2026| music "キャンバス": 31% (39.1563/125s)
+[1]Alana       |17:40:22 | 12-10-2026| music "キャンバス": 39% (49.2003/125s)
+[1]Alana       |17:40:33 | 12-10-2026| music "キャンバス": 47% (59.556599999999996/125s)
+[1]Alana       |17:40:45 | 12-10-2026| music "キャンバス": 55% (69.777/125s)
+[1]Alana       |17:40:56 | 12-10-2026| music "キャンバス": 63% (79.8714/125s)
+[1]Alana       |17:41:07 | 12-10-2026| music "キャンバス": 71% (89.84609999999999/125s)
+[1]Alana       |17:41:20 | 12-10-2026| music "キャンバス": 79% (99.85589999999999/125s)
+[1]Alana       |17:41:32 | 12-10-2026| music "キャンバス": 89% (111.96629999999999/125s)
+[1]Alana       |17:41:32 | 12-10-2026| music "キャンバス": selesai 111.96629999999999s
+[1]Alana       |17:41:34 | 12-10-2026| music memutar "ゆっくり帰ろう" (153s)...
+[1]Alana       |17:41:46 | 12-10-2026| music "ゆっくり帰ろう": 5% (9.0054/153s)
+[1]Alana       |17:41:57 | 12-10-2026| music "ゆっくり帰ろう": 12% (19.2213/153s)
+[1]Alana       |17:42:08 | 12-10-2026| music "ゆっくり帰ろう": 19% (29.2059/153s)
+[1]Alana       |17:42:19 | 12-10-2026| music "ゆっくり帰ろう": 25% (39.2913/153s)
+[1]Alana       |17:42:32 | 12-10-2026| music "ゆっくり帰ろう": 32% (49.4037/153s)
+[1]Alana       |17:42:43 | 12-10-2026| music "ゆっくり帰ろう": 39% (60.6042/153s)
+[1]Alana       |17:42:54 | 12-10-2026| music "ゆっくり帰ろう": 46% (70.71209999999999/153s)
+[1]Alana       |17:43:05 | 12-10-2026| music "ゆっくり帰ろう": 52% (80.7516/153s)
+[1]Alana       |17:43:16 | 12-10-2026| music "ゆっくり帰ろう": 59% (90.7407/153s)
+[1]Alana       |17:43:27 | 12-10-2026| music "ゆっくり帰ろう": 65% (100.6956/153s)
+[1]Alana       |17:43:40 | 12-10-2026| music "ゆっくり帰ろう": 72% (110.6784/153s)
+[1]Alana       |17:43:51 | 12-10-2026| music "ゆっくり帰ろう": 79% (121.5972/153s)
+[1]Alana       |17:44:02 | 12-10-2026| music "ゆっくり帰ろう": 86% (132.0669/153s)
+[1]Alana       |17:44:03 | 12-10-2026| music "ゆっくり帰ろう": selesai 132.0669s
+[1]Alana       |17:44:05 | 12-10-2026| music memutar "うたかた" (185s)...
+[1]Alana       |17:44:16 | 12-10-2026| music "うたかた": 4% (9.0009/185s)
+[1]Alana       |17:44:27 | 12-10-2026| music "うたかた": 10% (18.9414/185s)
+[1]Alana       |17:44:39 | 12-10-2026| music "うたかた": 15% (28.8927/185s)
+[1]Alana       |17:44:50 | 12-10-2026| music "うたかた": 21% (38.877300000000005/185s)
+[1]Alana       |17:45:01 | 12-10-2026| music "うたかた": 26% (49.12830000000001/185s)
+[1]Alana       |17:45:13 | 12-10-2026| music "うたかた": 32% (59.21370000000001/185s)
+[1]Alana       |17:45:24 | 12-10-2026| music "うたかた": 37% (69.5781/185s)
+[1]Alana       |17:45:35 | 12-10-2026| music "うたかた": 43% (79.81020000000001/185s)
+[1]Alana       |17:45:46 | 12-10-2026| music "うたかた": 48% (89.80380000000001/185s)
+[1]Alana       |17:45:57 | 12-10-2026| music "うたかた": 53% (99.77940000000001/185s)
+[1]Alana       |17:46:09 | 12-10-2026| music "うたかた": 59% (109.78290000000001/185s)
+[1]Alana       |17:46:20 | 12-10-2026| music "うたかた": 64% (119.90250000000002/185s)
+[1]Alana       |17:46:32 | 12-10-2026| music "うたかた": 70% (130.00230000000002/185s)
+[1]Alana       |17:46:43 | 12-10-2026| music "うたかた": 76% (140.86800000000002/185s)
+[1]Alana       |17:46:55 | 12-10-2026| music "うたかた": 81% (151.20990000000003/185s)
+[1]Alana       |17:46:55 | 12-10-2026| music "うたかた": selesai 151.20990000000003s
+[1]Alana       |17:46:57 | 12-10-2026| music memutar "ぬくもり" (188s)...
+[1]Alana       |17:47:08 | 12-10-2026| music "ぬくもり": 4% (9.0027/188s)
+[1]Alana       |17:47:20 | 12-10-2026| music "ぬくもり": 10% (19.0026/188s)
+[1]Alana       |17:47:31 | 12-10-2026| music "ぬくもり": 15% (29.4444/188s)
+[1]Alana       |17:47:43 | 12-10-2026| music "ぬくもり": 20% (39.395700000000005/188s)
+[1]Alana       |17:47:54 | 12-10-2026| music "ぬくもり": 26% (50.3019/188s)
+[1]Alana       |17:48:05 | 12-10-2026| music "ぬくもり": 32% (60.26220000000001/188s)
+[1]Alana       |17:48:17 | 12-10-2026| music "ぬくもり": 37% (70.2072/188s)
+[1]Alana       |17:48:28 | 12-10-2026| music "ぬくもり": 42% (80.586/188s)
+[1]Alana       |17:48:39 | 12-10-2026| music "ぬくもり": 48% (90.8505/188s)
+[1]Alana       |17:48:51 | 12-10-2026| music "ぬくもり": 53% (100.809/188s)
+[1]Alana       |17:49:02 | 12-10-2026| music "ぬくもり": 58% (110.83409999999999/188s)
+[1]Alana       |17:49:13 | 12-10-2026| music "ぬくもり": 64% (121.3992/188s)
+[1]Alana       |17:49:28 | 12-10-2026| music "ぬくもり": 69% (131.43599999999998/188s)
+[1]Alana       |17:49:39 | 12-10-2026| music "ぬくもり": 76% (144.18179999999998/188s)
+[1]Alana       |17:49:50 | 12-10-2026| music "ぬくもり": 82% (154.593/188s)
+[1]Alana       |17:49:51 | 12-10-2026| music "ぬくもり": selesai 154.593s
+[1]Alana       |17:49:53 | 12-10-2026| music memutar "桃色の頃" (213s)...
+[1]Alana       |17:50:04 | 12-10-2026| music "桃色の頃": 4% (9.0054/213s)
+[1]Alana       |17:50:15 | 12-10-2026| music "桃色の頃": 8% (19.134/213s)
+[1]Alana       |17:50:26 | 12-10-2026| music "桃色の頃": 13% (29.0898/213s)
+[1]Alana       |17:50:39 | 12-10-2026| music "桃色の頃": 18% (39.0141/213s)
+[1]Alana       |17:50:50 | 12-10-2026| music "桃色の頃": 23% (50.202/213s)
+[1]Alana       |17:51:01 | 12-10-2026| music "桃色の頃": 28% (60.4899/213s)
+[1]Alana       |17:51:13 | 12-10-2026| music "桃色の頃": 33% (70.4493/213s)
+[1]Alana       |17:51:25 | 12-10-2026| music "桃色の頃": 38% (80.98559999999999/213s)
+[1]Alana       |17:51:37 | 12-10-2026| music "桃色の頃": 43% (92.1321/213s)
+[1]Alana       |17:51:48 | 12-10-2026| music "桃色の頃": 48% (102.3633/213s)
+[1]Alana       |17:52:00 | 12-10-2026| music "桃色の頃": 52% (112.6674/213s)
+[1]Alana       |17:52:11 | 12-10-2026| music "桃色の頃": 57% (123.417/213s)
+[1]Alana       |17:52:22 | 12-10-2026| music "桃色の頃": 62% (133.4457/213s)
+[1]Alana       |17:52:34 | 12-10-2026| music "桃色の頃": 67% (143.4699/213s)
+[1]Alana       |17:52:45 | 12-10-2026| music "桃色の頃": 72% (154.1565/213s)
+[1]Alana       |17:52:57 | 12-10-2026| music "桃色の頃": 77% (164.1303/213s)
+[1]Alana       |17:53:08 | 12-10-2026| music "桃色の頃": 81% (174.3309/213s)
+[1]Alana       |17:53:08 | 12-10-2026| music "桃色の頃": selesai 174.3309s
+[1]Alana       |17:53:11 | 12-10-2026| music memutar "記憶の名前" (224s)...
+[1]Alana       |17:53:22 | 12-10-2026| music "記憶の名前": 4% (9.0054/224s)
+[1]Alana       |17:53:34 | 12-10-2026| music "記憶の名前": 8% (19.0143/224s)
+[1]Alana       |17:53:46 | 12-10-2026| music "記憶の名前": 12% (28.952999999999996/224s)
+[1]Alana       |17:53:57 | 12-10-2026| music "記憶の名前": 17% (39.745799999999996/224s)
+[1]Alana       |17:54:08 | 12-10-2026| music "記憶の名前": 22% (49.78529999999999/224s)
+[1]Alana       |17:54:19 | 12-10-2026| music "記憶の名前": 26% (59.761799999999994/224s)
+[1]Alana       |17:54:31 | 12-10-2026| music "記憶の名前": 31% (70.0488/224s)
+[1]Alana       |17:54:42 | 12-10-2026| music "記憶の名前": 35% (80.3484/224s)
+[1]Alana       |17:54:53 | 12-10-2026| music "記憶の名前": 40% (90.32759999999999/224s)
+[1]Alana       |17:55:05 | 12-10-2026| music "記憶の名前": 44% (100.33469999999998/224s)
+[1]Alana       |17:55:17 | 12-10-2026| music "記憶の名前": 49% (111.45059999999998/224s)
+[1]Alana       |17:55:28 | 12-10-2026| music "記憶の名前": 54% (121.70249999999999/224s)
+[1]Alana       |17:55:39 | 12-10-2026| music "記憶の名前": 58% (131.96249999999998/224s)
+[1]Alana       |17:55:52 | 12-10-2026| music "記憶の名前": 63% (142.26389999999998/224s)
+[1]Alana       |17:56:03 | 12-10-2026| music "記憶の名前": 68% (153.7155/224s)
+[1]Alana       |17:56:14 | 12-10-2026| music "記憶の名前": 73% (163.6731/224s)
+[1]Alana       |17:56:25 | 12-10-2026| music "記憶の名前": 77% (173.7387/224s)
+[1]Alana       |17:56:37 | 12-10-2026| music "記憶の名前": 82% (183.6927/224s)
+[1]Alana       |17:56:37 | 12-10-2026| music "記憶の名前": selesai 183.6927s
+[1]Alana       |17:56:40 | 12-10-2026| music memutar "Smart Pocket" (232s)...
+[1]Alana       |17:56:51 | 12-10-2026| music "Smart Pocket": 3% (9.0063/232s)
+[1]Alana       |17:57:02 | 12-10-2026| music "Smart Pocket": 8% (19.0395/232s)
+[1]Alana       |17:57:13 | 12-10-2026| music "Smart Pocket": 12% (29.001600000000003/232s)
+[1]Alana       |17:57:24 | 12-10-2026| music "Smart Pocket": 16% (39.000600000000006/232s)
+[1]Alana       |17:57:36 | 12-10-2026| music "Smart Pocket": 21% (49.1328/232s)
+[1]Alana       |17:57:47 | 12-10-2026| music "Smart Pocket": 25% (59.162400000000005/232s)
+[1]Alana       |17:57:58 | 12-10-2026| music "Smart Pocket": 29% (69.27300000000001/232s)
+[1]Alana       |17:58:09 | 12-10-2026| music "Smart Pocket": 34% (79.5258/232s)
+[1]Alana       |17:58:20 | 12-10-2026| music "Smart Pocket": 38% (89.49600000000001/232s)
+[1]Alana       |17:58:31 | 12-10-2026| music "Smart Pocket": 42% (99.51660000000001/232s)
+[1]Alana       |17:58:43 | 12-10-2026| music "Smart Pocket": 47% (109.51200000000001/232s)
+[1]Alana       |17:58:54 | 12-10-2026| music "Smart Pocket": 51% (119.74230000000001/232s)
+[1]Alana       |17:59:05 | 12-10-2026| music "Smart Pocket": 55% (129.84750000000003/232s)
+[1]Alana       |17:59:17 | 12-10-2026| music "Smart Pocket": 60% (140.11650000000003/232s)
+[1]Alana       |17:59:28 | 12-10-2026| music "Smart Pocket": 64% (150.04350000000002/232s)
+[1]Alana       |17:59:39 | 12-10-2026| music "Smart Pocket": 68% (160.038/232s)
+[1]Alana       |17:59:50 | 12-10-2026| music "Smart Pocket": 73% (170.28900000000002/232s)
+[1]Alana       |18:00:01 | 12-10-2026| music "Smart Pocket": 77% (180.2511/232s)
+[1]Alana       |18:00:13 | 12-10-2026| music "Smart Pocket": 82% (190.31220000000002/232s)
+[1]Alana       |18:00:13 | 12-10-2026| music "Smart Pocket": selesai 190.31220000000002s
+[1]Alana       |18:00:16 | 12-10-2026| music memutar "神様みたいに" (254s)...
+[1]Alana       |18:00:27 | 12-10-2026| music "神様みたいに": 3% (9.0063/254s)
+[1]Alana       |18:00:38 | 12-10-2026| music "神様みたいに": 7% (19.0143/254s)
+[1]Alana       |18:00:50 | 12-10-2026| music "神様みたいに": 11% (29.4498/254s)
+[1]Alana       |18:01:02 | 12-10-2026| music "神様みたいに": 15% (40.2687/254s)
+[1]Alana       |18:01:13 | 12-10-2026| music "神様みたいに": 19% (50.5899/254s)
+[1]Alana       |18:01:25 | 12-10-2026| music "神様みたいに": 23% (60.9237/254s)
+[1]Alana       |18:01:37 | 12-10-2026| music "神様みたいに": 28% (71.8578/254s)
+[1]Alana       |18:01:48 | 12-10-2026| music "神様みたいに": 32% (82.17/254s)
+[1]Alana       |18:02:00 | 12-10-2026| music "神様みたいに": 36% (92.4435/254s)
+[1]Alana       |18:02:11 | 12-10-2026| music "神様みたいに": 40% (103.1139/254s)
+[1]Alana       |18:02:22 | 12-10-2026| music "神様みたいに": 44% (113.1309/254s)
+[1]Alana       |18:02:35 | 12-10-2026| music "神様みたいに": 48% (123.21629999999999/254s)
+[1]Alana       |18:02:46 | 12-10-2026| music "神様みたいに": 52% (134.3124/254s)
+[1]Alana       |18:02:57 | 12-10-2026| music "神様みたいに": 56% (144.3096/254s)
+[1]Alana       |18:03:09 | 12-10-2026| music "神様みたいに": 60% (154.5804/254s)
+[1]Alana       |18:03:20 | 12-10-2026| music "神様みたいに": 64% (164.8476/254s)
+[1]Alana       |18:03:32 | 12-10-2026| music "神様みたいに": 68% (175.1445/254s)
+[1]Alana       |18:03:43 | 12-10-2026| music "神様みたいに": 73% (185.4531/254s)
+[1]Alana       |18:03:54 | 12-10-2026| music "神様みたいに": 76% (195.53220000000002/254s)
+[1]Alana       |18:04:06 | 12-10-2026| music "神様みたいに": 80% (205.50330000000002/254s)
+[1]Alana       |18:04:07 | 12-10-2026| music "神様みたいに": selesai 205.50330000000002s
+[1]Alana       |18:04:09 | 12-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Alana       |18:04:20 | 12-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
+[1]Alana       |18:04:31 | 12-10-2026| music "せーので、飛ぼう！": 7% (19.0143/269s)
+[1]Alana       |18:04:42 | 12-10-2026| music "せーので、飛ぼう！": 10% (28.976399999999998/269s)
+[1]Alana       |18:04:53 | 12-10-2026| music "せーので、飛ぼう！": 14% (39.0564/269s)
+[1]Alana       |18:05:05 | 12-10-2026| music "せーので、飛ぼう！": 18% (49.044599999999996/269s)
+[1]Alana       |18:05:16 | 12-10-2026| music "せーので、飛ぼう！": 21% (59.0697/269s)
+[1]Alana       |18:05:28 | 12-10-2026| music "せーので、飛ぼう！": 25% (69.1371/269s)
+[1]Alana       |18:05:40 | 12-10-2026| music "せーので、飛ぼう！": 29% (80.4321/269s)
+[1]Alana       |18:05:52 | 12-10-2026| music "せーので、飛ぼう！": 33% (91.3221/269s)
+[1]Alana       |18:06:04 | 12-10-2026| music "せーので、飛ぼう！": 37% (101.4714/269s)
+[1]Alana       |18:06:16 | 12-10-2026| music "せーので、飛ぼう！": 42% (112.99680000000001/269s)
+[1]Alana       |18:06:27 | 12-10-2026| music "せーので、飛ぼう！": 45% (122.9706/269s)
+[1]Alana       |18:06:38 | 12-10-2026| music "せーので、飛ぼう！": 49% (132.9678/269s)
+[1]Alana       |18:06:49 | 12-10-2026| music "せーので、飛ぼう！": 53% (142.9812/269s)
+[1]Alana       |18:07:00 | 12-10-2026| music "せーので、飛ぼう！": 56% (152.9109/269s)
+[1]Alana       |18:07:11 | 12-10-2026| music "せーので、飛ぼう！": 60% (162.9657/269s)
+[1]Alana       |18:07:22 | 12-10-2026| music "せーので、飛ぼう！": 64% (172.9395/269s)
+[1]Alana       |18:07:34 | 12-10-2026| music "せーので、飛ぼう！": 67% (182.8854/269s)
+[1]Alana       |18:07:45 | 12-10-2026| music "せーので、飛ぼう！": 72% (193.8591/269s)
+[1]Alana       |18:07:56 | 12-10-2026| music "せーので、飛ぼう！": 75% (203.7852/269s)
+[1]Alana       |18:08:08 | 12-10-2026| music "せーので、飛ぼう！": 79% (213.7797/269s)
+[1]Alana       |18:08:19 | 12-10-2026| music "せーので、飛ぼう！": 83% (223.911/269s)
+[1]Alana       |18:08:19 | 12-10-2026| music "せーので、飛ぼう！": selesai 223.911s
+[1]Alana       |18:08:22 | 12-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Alana       |18:08:33 | 12-10-2026| music "ON CHAIN NEXUS": 3% (9.0054/276s)
+[1]Alana       |18:08:44 | 12-10-2026| music "ON CHAIN NEXUS": 6% (18.9963/276s)
+[1]Alana       |18:08:55 | 12-10-2026| music "ON CHAIN NEXUS": 10% (28.9476/276s)
+[1]Alana       |18:09:07 | 12-10-2026| music "ON CHAIN NEXUS": 14% (39.3804/276s)
+[1]Alana       |18:09:18 | 12-10-2026| music "ON CHAIN NEXUS": 17% (49.3875/276s)
+[1]Alana       |18:09:29 | 12-10-2026| music "ON CHAIN NEXUS": 21% (59.418000000000006/276s)
+[1]Alana       |18:09:40 | 12-10-2026| music "ON CHAIN NEXUS": 25% (69.44760000000001/276s)
+[1]Alana       |18:09:51 | 12-10-2026| music "ON CHAIN NEXUS": 28% (79.54110000000001/276s)
+[1]Alana       |18:10:02 | 12-10-2026| music "ON CHAIN NEXUS": 32% (89.57880000000002/276s)
+[1]Alana       |18:10:13 | 12-10-2026| music "ON CHAIN NEXUS": 36% (99.65070000000001/276s)
+[1]Alana       |18:10:25 | 12-10-2026| music "ON CHAIN NEXUS": 39% (109.64970000000001/276s)
+[1]Alana       |18:10:36 | 12-10-2026| music "ON CHAIN NEXUS": 43% (119.781/276s)
+[1]Alana       |18:10:47 | 12-10-2026| music "ON CHAIN NEXUS": 47% (129.7431/276s)
+[1]Alana       |18:10:58 | 12-10-2026| music "ON CHAIN NEXUS": 50% (139.6953/276s)
+[1]Alana       |18:11:10 | 12-10-2026| music "ON CHAIN NEXUS": 54% (149.6556/276s)
+[1]Alana       |18:11:21 | 12-10-2026| music "ON CHAIN NEXUS": 58% (160.8507/276s)
+[1]Alana       |18:11:32 | 12-10-2026| music "ON CHAIN NEXUS": 61% (170.80919999999998/276s)
+[1]Alana       |18:11:44 | 12-10-2026| music "ON CHAIN NEXUS": 65% (180.77759999999998/276s)
+[1]Alana       |18:11:55 | 12-10-2026| music "ON CHAIN NEXUS": 69% (190.7334/276s)
+[1]Alana       |18:12:06 | 12-10-2026| music "ON CHAIN NEXUS": 72% (200.95919999999998/276s)
+[1]Alana       |18:12:17 | 12-10-2026| music "ON CHAIN NEXUS": 76% (210.91769999999997/276s)
+[1]Alana       |18:12:28 | 12-10-2026| music "ON CHAIN NEXUS": 80% (220.89779999999996/276s)
+[1]Alana       |18:12:41 | 12-10-2026| music "ON CHAIN NEXUS": 83% (230.91929999999996/276s)
+[1]Alana       |18:12:42 | 12-10-2026| music "ON CHAIN NEXUS": selesai 230.91929999999996s
+[1]Alana       |18:12:43 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Alana       |18:12:45 | 12-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Alana       |18:12:49 | 12-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Alana       |18:12:53 | 12-10-2026| mission anime-completed-3: CLAIM OK +10 poin
 --> [1]Alana menjalankan: Claim Missions
-[1]Alana       |09:00:53 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Alana       |18:12:56 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Alana       |18:12:56 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Alana       |18:12:56 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Alana menjalankan: Check Eligibility
 
 --- eligibility [1]Alana ---
-  @alanazerica | score=860 rank=6781
-  tasks    [###################-] 73/76
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @alanazerica | score=890 rank=6959
+  tasks    [##################--] 70/80
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Alana menjalankan: Read Manga
-[1]Alana       |09:00:53 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Alana       |18:13:00 | 12-10-2026| manga: 13/13 chapter belum completed
+[1]Alana       |18:13:00 | 12-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Alana       |18:13:06 | 12-10-2026| manga ch1 (1): page 1/19 (5%) 0s
+[1]Alana       |18:13:10 | 12-10-2026| manga ch1 (1): page 2/19 (10%) 5s
+[1]Alana       |18:13:15 | 12-10-2026| manga ch1 (1): page 3/19 (15%) 9s
+[1]Alana       |18:13:20 | 12-10-2026| manga ch1 (1): page 4/19 (21%) 14s
+[1]Alana       |18:13:24 | 12-10-2026| manga ch1 (1): page 5/19 (26%) 19s
+[1]Alana       |18:13:29 | 12-10-2026| manga ch1 (1): page 6/19 (31%) 23s
+[1]Alana       |18:13:34 | 12-10-2026| manga ch1 (1): page 7/19 (36%) 28s
+[1]Alana       |18:13:39 | 12-10-2026| manga ch1 (1): page 8/19 (42%) 33s
+[1]Alana       |18:13:43 | 12-10-2026| manga ch1 (1): page 9/19 (47%) 38s
+[1]Alana       |18:13:48 | 12-10-2026| manga ch1 (1): page 10/19 (52%) 42s
+[1]Alana       |18:13:52 | 12-10-2026| manga ch1 (1): page 11/19 (57%) 47s
+[1]Alana       |18:13:57 | 12-10-2026| manga ch1 (1): page 12/19 (63%) 51s
+[1]Alana       |18:14:01 | 12-10-2026| manga ch1 (1): page 13/19 (68%) 56s
+[1]Alana       |18:14:06 | 12-10-2026| manga ch1 (1): page 14/19 (73%) 60s
+[1]Alana       |18:14:11 | 12-10-2026| manga ch1 (1): page 15/19 (78%) 65s
+[1]Alana       |18:14:15 | 12-10-2026| manga ch1 (1): page 16/19 (84%) 69s
+[1]Alana       |18:14:20 | 12-10-2026| manga ch1 (1): page 17/19 (89%) 74s
+[1]Alana       |18:14:24 | 12-10-2026| manga ch1 (1): page 18/19 (94%) 79s
+[1]Alana       |18:14:29 | 12-10-2026| manga ch1 (1): page 19/19 (99%) 83s
+[1]Alana       |18:14:34 | 12-10-2026| manga ch1 (1): COMPLETED
+[1]Alana       |18:14:37 | 12-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Alana       |18:14:42 | 12-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
+[1]Alana       |18:14:47 | 12-10-2026| manga ch2 (450001): page 2/18 (11%) 5s
+[1]Alana       |18:14:51 | 12-10-2026| manga ch2 (450001): page 3/18 (16%) 9s
+[1]Alana       |18:14:56 | 12-10-2026| manga ch2 (450001): page 4/18 (22%) 14s
+[1]Alana       |18:15:00 | 12-10-2026| manga ch2 (450001): page 5/18 (27%) 18s
+[1]Alana       |18:15:05 | 12-10-2026| manga ch2 (450001): page 6/18 (33%) 23s
+[1]Alana       |18:15:10 | 12-10-2026| manga ch2 (450001): page 7/18 (38%) 28s
+[1]Alana       |18:15:14 | 12-10-2026| manga ch2 (450001): page 8/18 (44%) 32s
+[1]Alana       |18:15:19 | 12-10-2026| manga ch2 (450001): page 9/18 (50%) 37s
+[1]Alana       |18:15:24 | 12-10-2026| manga ch2 (450001): page 10/18 (55%) 42s
+[1]Alana       |18:15:28 | 12-10-2026| manga ch2 (450001): page 11/18 (61%) 46s
+[1]Alana       |18:15:33 | 12-10-2026| manga ch2 (450001): page 12/18 (66%) 51s
+[1]Alana       |18:15:37 | 12-10-2026| manga ch2 (450001): page 13/18 (72%) 55s
+[1]Alana       |18:15:42 | 12-10-2026| manga ch2 (450001): page 14/18 (77%) 60s
+[1]Alana       |18:15:47 | 12-10-2026| manga ch2 (450001): page 15/18 (83%) 65s
+[1]Alana       |18:15:52 | 12-10-2026| manga ch2 (450001): page 16/18 (88%) 69s
+[1]Alana       |18:15:56 | 12-10-2026| manga ch2 (450001): page 17/18 (94%) 74s
+[1]Alana       |18:16:01 | 12-10-2026| manga ch2 (450001): page 18/18 (99%) 79s
+[1]Alana       |18:16:05 | 12-10-2026| manga ch2 (450001): COMPLETED
+[1]Alana       |18:16:08 | 12-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Alana       |18:16:15 | 12-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
+[1]Alana       |18:16:20 | 12-10-2026| manga ch3 (2160001): page 2/17 (11%) 5s
+[1]Alana       |18:16:25 | 12-10-2026| manga ch3 (2160001): page 3/17 (17%) 10s
+[1]Alana       |18:16:30 | 12-10-2026| manga ch3 (2160001): page 4/17 (23%) 16s
+[1]Alana       |18:16:34 | 12-10-2026| manga ch3 (2160001): page 5/17 (29%) 20s
+[1]Alana       |18:16:39 | 12-10-2026| manga ch3 (2160001): page 6/17 (35%) 25s
+[1]Alana       |18:16:44 | 12-10-2026| manga ch3 (2160001): page 7/17 (41%) 30s
+[1]Alana       |18:16:48 | 12-10-2026| manga ch3 (2160001): page 8/17 (47%) 34s
+[1]Alana       |18:16:53 | 12-10-2026| manga ch3 (2160001): page 9/17 (52%) 39s
+[1]Alana       |18:16:57 | 12-10-2026| manga ch3 (2160001): page 10/17 (58%) 43s
+[1]Alana       |18:17:02 | 12-10-2026| manga ch3 (2160001): page 11/17 (64%) 48s
+[1]Alana       |18:17:06 | 12-10-2026| manga ch3 (2160001): page 12/17 (70%) 52s
+[1]Alana       |18:17:11 | 12-10-2026| manga ch3 (2160001): page 13/17 (76%) 57s
+[1]Alana       |18:17:16 | 12-10-2026| manga ch3 (2160001): page 14/17 (82%) 61s
+[1]Alana       |18:17:21 | 12-10-2026| manga ch3 (2160001): page 15/17 (88%) 66s
+[1]Alana       |18:17:25 | 12-10-2026| manga ch3 (2160001): page 16/17 (94%) 71s
+[1]Alana       |18:17:30 | 12-10-2026| manga ch3 (2160001): page 17/17 (99%) 76s
+[1]Alana       |18:17:36 | 12-10-2026| manga ch3 (2160001): COMPLETED
+[1]Alana       |18:17:39 | 12-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Alana       |18:17:45 | 12-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
+[1]Alana       |18:17:50 | 12-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
+[1]Alana       |18:17:55 | 12-10-2026| manga ch4 (2400001): page 3/17 (17%) 10s
+[1]Alana       |18:18:00 | 12-10-2026| manga ch4 (2400001): page 4/17 (23%) 14s
+[1]Alana       |18:18:04 | 12-10-2026| manga ch4 (2400001): page 5/17 (29%) 20s
+[1]Alana       |18:18:09 | 12-10-2026| manga ch4 (2400001): page 6/17 (35%) 24s
+[1]Alana       |18:18:13 | 12-10-2026| manga ch4 (2400001): page 7/17 (41%) 29s
+[1]Alana       |18:18:18 | 12-10-2026| manga ch4 (2400001): page 8/17 (47%) 33s
+[1]Alana       |18:18:22 | 12-10-2026| manga ch4 (2400001): page 9/17 (52%) 38s
+[1]Alana       |18:18:27 | 12-10-2026| manga ch4 (2400001): page 10/17 (58%) 42s
+[1]Alana       |18:18:32 | 12-10-2026| manga ch4 (2400001): page 11/17 (64%) 47s
+[1]Alana       |18:18:36 | 12-10-2026| manga ch4 (2400001): page 12/17 (70%) 51s
+[1]Alana       |18:18:41 | 12-10-2026| manga ch4 (2400001): page 13/17 (76%) 56s
+[1]Alana       |18:18:45 | 12-10-2026| manga ch4 (2400001): page 14/17 (82%) 61s
+[1]Alana       |18:18:50 | 12-10-2026| manga ch4 (2400001): page 15/17 (88%) 65s
+[1]Alana       |18:18:55 | 12-10-2026| manga ch4 (2400001): page 16/17 (94%) 70s
+[1]Alana       |18:18:59 | 12-10-2026| manga ch4 (2400001): page 17/17 (99%) 75s
+[1]Alana       |18:19:04 | 12-10-2026| manga ch4 (2400001): COMPLETED
+[1]Alana       |18:19:07 | 12-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Alana       |18:19:13 | 12-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
+[1]Alana       |18:19:17 | 12-10-2026| manga ch5 (2490001): page 2/18 (11%) 5s
+[1]Alana       |18:19:22 | 12-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
+[1]Alana       |18:19:27 | 12-10-2026| manga ch5 (2490001): page 4/18 (22%) 14s
+[1]Alana       |18:19:31 | 12-10-2026| manga ch5 (2490001): page 5/18 (27%) 18s
+[1]Alana       |18:19:36 | 12-10-2026| manga ch5 (2490001): page 6/18 (33%) 23s
+[1]Alana       |18:19:40 | 12-10-2026| manga ch5 (2490001): page 7/18 (38%) 28s
+[1]Alana       |18:19:45 | 12-10-2026| manga ch5 (2490001): page 8/18 (44%) 32s
+[1]Alana       |18:19:49 | 12-10-2026| manga ch5 (2490001): page 9/18 (50%) 37s
+[1]Alana       |18:19:54 | 12-10-2026| manga ch5 (2490001): page 10/18 (55%) 41s
+[1]Alana       |18:19:58 | 12-10-2026| manga ch5 (2490001): page 11/18 (61%) 46s
+[1]Alana       |18:20:03 | 12-10-2026| manga ch5 (2490001): page 12/18 (66%) 50s
+[1]Alana       |18:20:08 | 12-10-2026| manga ch5 (2490001): page 13/18 (72%) 55s
+[1]Alana       |18:20:13 | 12-10-2026| manga ch5 (2490001): page 14/18 (77%) 60s
+[1]Alana       |18:20:17 | 12-10-2026| manga ch5 (2490001): page 15/18 (83%) 65s
+[1]Alana       |18:20:22 | 12-10-2026| manga ch5 (2490001): page 16/18 (88%) 69s
+[1]Alana       |18:20:26 | 12-10-2026| manga ch5 (2490001): page 17/18 (94%) 74s
+[1]Alana       |18:20:31 | 12-10-2026| manga ch5 (2490001): page 18/18 (99%) 78s
+[1]Alana       |18:20:36 | 12-10-2026| manga ch5 (2490001): COMPLETED
+[1]Alana       |18:20:39 | 12-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Alana       |18:20:45 | 12-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
+[1]Alana       |18:20:49 | 12-10-2026| manga ch6 (2610001): page 2/17 (11%) 5s
+[1]Alana       |18:20:54 | 12-10-2026| manga ch6 (2610001): page 3/17 (17%) 9s
+[1]Alana       |18:20:58 | 12-10-2026| manga ch6 (2610001): page 4/17 (23%) 14s
+[1]Alana       |18:21:03 | 12-10-2026| manga ch6 (2610001): page 5/17 (29%) 18s
+[1]Alana       |18:21:07 | 12-10-2026| manga ch6 (2610001): page 6/17 (35%) 23s
+[1]Alana       |18:21:12 | 12-10-2026| manga ch6 (2610001): page 7/17 (41%) 27s
+[1]Alana       |18:21:16 | 12-10-2026| manga ch6 (2610001): page 8/17 (47%) 32s
+[1]Alana       |18:21:21 | 12-10-2026| manga ch6 (2610001): page 9/17 (52%) 36s
+[1]Alana       |18:21:28 | 12-10-2026| manga ch6 (2610001): page 10/17 (58%) 41s
+[1]Alana       |18:21:33 | 12-10-2026| manga ch6 (2610001): page 11/17 (64%) 48s
+[1]Alana       |18:21:37 | 12-10-2026| manga ch6 (2610001): page 12/17 (70%) 53s
+[1]Alana       |18:21:42 | 12-10-2026| manga ch6 (2610001): page 13/17 (76%) 57s
+[1]Alana       |18:21:47 | 12-10-2026| manga ch6 (2610001): page 14/17 (82%) 62s
+[1]Alana       |18:21:51 | 12-10-2026| manga ch6 (2610001): page 15/17 (88%) 67s
+[1]Alana       |18:21:56 | 12-10-2026| manga ch6 (2610001): page 16/17 (94%) 71s
+[1]Alana       |18:22:00 | 12-10-2026| manga ch6 (2610001): page 17/17 (99%) 76s
+[1]Alana       |18:22:05 | 12-10-2026| manga ch6 (2610001): COMPLETED
+[1]Alana       |18:22:08 | 12-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Alana       |18:22:15 | 12-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
+[1]Alana       |18:22:19 | 12-10-2026| manga ch1 (180003): page 2/21 (9%) 5s
+[1]Alana       |18:22:24 | 12-10-2026| manga ch1 (180003): page 3/21 (14%) 10s
+[1]Alana       |18:22:29 | 12-10-2026| manga ch1 (180003): page 4/21 (19%) 14s
+[1]Alana       |18:22:35 | 12-10-2026| manga ch1 (180003): page 5/21 (23%) 19s
+[1]Alana       |18:22:40 | 12-10-2026| manga ch1 (180003): page 6/21 (28%) 26s
+[1]Alana       |18:22:45 | 12-10-2026| manga ch1 (180003): page 7/21 (33%) 30s
+[1]Alana       |18:22:49 | 12-10-2026| manga ch1 (180003): page 8/21 (38%) 35s
+[1]Alana       |18:22:54 | 12-10-2026| manga ch1 (180003): page 9/21 (42%) 39s
+[1]Alana       |18:22:58 | 12-10-2026| manga ch1 (180003): page 10/21 (47%) 44s
+[1]Alana       |18:23:03 | 12-10-2026| manga ch1 (180003): page 11/21 (52%) 48s
+[1]Alana       |18:23:07 | 12-10-2026| manga ch1 (180003): page 12/21 (57%) 53s
+[1]Alana       |18:23:12 | 12-10-2026| manga ch1 (180003): page 13/21 (61%) 58s
+[1]Alana       |18:23:17 | 12-10-2026| manga ch1 (180003): page 14/21 (66%) 62s
+[1]Alana       |18:23:21 | 12-10-2026| manga ch1 (180003): page 15/21 (71%) 67s
+[1]Alana       |18:23:26 | 12-10-2026| manga ch1 (180003): page 16/21 (76%) 71s
+[1]Alana       |18:23:30 | 12-10-2026| manga ch1 (180003): page 17/21 (80%) 76s
+[1]Alana       |18:23:35 | 12-10-2026| manga ch1 (180003): page 18/21 (85%) 81s
+[1]Alana       |18:23:40 | 12-10-2026| manga ch1 (180003): page 19/21 (90%) 85s
+[1]Alana       |18:23:44 | 12-10-2026| manga ch1 (180003): page 20/21 (95%) 90s
+[1]Alana       |18:23:49 | 12-10-2026| manga ch1 (180003): page 21/21 (99%) 95s
+[1]Alana       |18:23:53 | 12-10-2026| manga ch1 (180003): COMPLETED
+[1]Alana       |18:23:56 | 12-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Alana       |18:24:03 | 12-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
+[1]Alana       |18:24:07 | 12-10-2026| manga ch2 (990005): page 2/18 (11%) 5s
+[1]Alana       |18:24:12 | 12-10-2026| manga ch2 (990005): page 3/18 (16%) 9s
+[1]Alana       |18:24:17 | 12-10-2026| manga ch2 (990005): page 4/18 (22%) 14s
+[1]Alana       |18:24:21 | 12-10-2026| manga ch2 (990005): page 5/18 (27%) 19s
+[1]Alana       |18:24:26 | 12-10-2026| manga ch2 (990005): page 6/18 (33%) 23s
+[1]Alana       |18:24:31 | 12-10-2026| manga ch2 (990005): page 7/18 (38%) 28s
+[1]Alana       |18:24:35 | 12-10-2026| manga ch2 (990005): page 8/18 (44%) 33s
+[1]Alana       |18:24:40 | 12-10-2026| manga ch2 (990005): page 9/18 (50%) 37s
+[1]Alana       |18:24:44 | 12-10-2026| manga ch2 (990005): page 10/18 (55%) 42s
+[1]Alana       |18:24:49 | 12-10-2026| manga ch2 (990005): page 11/18 (61%) 46s
+[1]Alana       |18:24:53 | 12-10-2026| manga ch2 (990005): page 12/18 (66%) 51s
+[1]Alana       |18:24:58 | 12-10-2026| manga ch2 (990005): page 13/18 (72%) 56s
+[1]Alana       |18:25:02 | 12-10-2026| manga ch2 (990005): page 14/18 (77%) 60s
+[1]Alana       |18:25:07 | 12-10-2026| manga ch2 (990005): page 15/18 (83%) 65s
+[1]Alana       |18:25:12 | 12-10-2026| manga ch2 (990005): page 16/18 (88%) 69s
+[1]Alana       |18:25:16 | 12-10-2026| manga ch2 (990005): page 17/18 (94%) 74s
+[1]Alana       |18:25:21 | 12-10-2026| manga ch2 (990005): page 18/18 (99%) 78s
+[1]Alana       |18:25:25 | 12-10-2026| manga ch2 (990005): COMPLETED
+[1]Alana       |18:25:28 | 12-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Alana       |18:25:34 | 12-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
+[1]Alana       |18:25:39 | 12-10-2026| manga ch3 (1980001): page 2/20 (10%) 5s
+[1]Alana       |18:25:43 | 12-10-2026| manga ch3 (1980001): page 3/20 (15%) 9s
+[1]Alana       |18:25:48 | 12-10-2026| manga ch3 (1980001): page 4/20 (20%) 14s
+[1]Alana       |18:25:52 | 12-10-2026| manga ch3 (1980001): page 5/20 (25%) 18s
+[1]Alana       |18:26:04 | 12-10-2026| manga ch3 (1980001): page 6/20 (30%) 23s
+[1]Alana       |18:26:09 | 12-10-2026| manga ch3 (1980001): page 7/20 (35%) 33s
+[1]Alana       |18:26:13 | 12-10-2026| manga ch3 (1980001): page 8/20 (40%) 38s
+[1]Alana       |18:26:18 | 12-10-2026| manga ch3 (1980001): page 9/20 (45%) 43s
+[1]Alana       |18:26:22 | 12-10-2026| manga ch3 (1980001): page 10/20 (50%) 47s
+[1]Alana       |18:26:27 | 12-10-2026| manga ch3 (1980001): page 11/20 (55%) 52s
+[1]Alana       |18:26:32 | 12-10-2026| manga ch3 (1980001): page 12/20 (60%) 56s
+[1]Alana       |18:26:36 | 12-10-2026| manga ch3 (1980001): page 13/20 (65%) 61s
+[1]Alana       |18:26:41 | 12-10-2026| manga ch3 (1980001): page 14/20 (70%) 66s
+[1]Alana       |18:26:46 | 12-10-2026| manga ch3 (1980001): page 15/20 (75%) 70s
+[1]Alana       |18:26:50 | 12-10-2026| manga ch3 (1980001): page 16/20 (80%) 75s
+[1]Alana       |18:26:55 | 12-10-2026| manga ch3 (1980001): page 17/20 (85%) 80s
+[1]Alana       |18:27:00 | 12-10-2026| manga ch3 (1980001): page 18/20 (90%) 85s
+[1]Alana       |18:27:05 | 12-10-2026| manga ch3 (1980001): page 19/20 (95%) 89s
+[1]Alana       |18:27:10 | 12-10-2026| manga ch3 (1980001): page 20/20 (99%) 94s
+[1]Alana       |18:27:15 | 12-10-2026| manga ch3 (1980001): COMPLETED
+[1]Alana       |18:27:18 | 12-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Alana       |18:27:23 | 12-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
+[1]Alana       |18:27:28 | 12-10-2026| manga ch1 (2100001): page 2/9 (22%) 5s
+[1]Alana       |18:27:34 | 12-10-2026| manga ch1 (2100001): page 3/9 (33%) 9s
+[1]Alana       |18:27:38 | 12-10-2026| manga ch1 (2100001): page 4/9 (44%) 15s
+[1]Alana       |18:27:43 | 12-10-2026| manga ch1 (2100001): page 5/9 (55%) 20s
+[1]Alana       |18:27:47 | 12-10-2026| manga ch1 (2100001): page 6/9 (66%) 24s
+[1]Alana       |18:27:52 | 12-10-2026| manga ch1 (2100001): page 7/9 (77%) 29s
+[1]Alana       |18:27:56 | 12-10-2026| manga ch1 (2100001): page 8/9 (88%) 33s
+[1]Alana       |18:28:01 | 12-10-2026| manga ch1 (2100001): page 9/9 (99%) 38s
+[1]Alana       |18:28:05 | 12-10-2026| manga ch1 (2100001): COMPLETED
+[1]Alana       |18:28:08 | 12-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Alana       |18:28:14 | 12-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
+[1]Alana       |18:28:19 | 12-10-2026| manga ch1 (2070001): page 2/10 (20%) 5s
+[1]Alana       |18:28:24 | 12-10-2026| manga ch1 (2070001): page 3/10 (30%) 9s
+[1]Alana       |18:28:28 | 12-10-2026| manga ch1 (2070001): page 4/10 (40%) 14s
+[1]Alana       |18:28:33 | 12-10-2026| manga ch1 (2070001): page 5/10 (50%) 19s
+[1]Alana       |18:28:38 | 12-10-2026| manga ch1 (2070001): page 6/10 (60%) 24s
+[1]Alana       |18:28:43 | 12-10-2026| manga ch1 (2070001): page 7/10 (70%) 28s
+[1]Alana       |18:28:48 | 12-10-2026| manga ch1 (2070001): page 8/10 (80%) 34s
+[1]Alana       |18:28:53 | 12-10-2026| manga ch1 (2070001): page 9/10 (90%) 39s
+[1]Alana       |18:28:58 | 12-10-2026| manga ch1 (2070001): page 10/10 (99%) 43s
+[1]Alana       |18:29:03 | 12-10-2026| manga ch1 (2070001): COMPLETED
+[1]Alana       |18:29:06 | 12-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Alana       |18:29:11 | 12-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
+[1]Alana       |18:29:16 | 12-10-2026| manga ch2 (2520001): page 2/11 (18%) 5s
+[1]Alana       |18:29:20 | 12-10-2026| manga ch2 (2520001): page 3/11 (27%) 9s
+[1]Alana       |18:29:25 | 12-10-2026| manga ch2 (2520001): page 4/11 (36%) 14s
+[1]Alana       |18:29:29 | 12-10-2026| manga ch2 (2520001): page 5/11 (45%) 18s
+[1]Alana       |18:29:34 | 12-10-2026| manga ch2 (2520001): page 6/11 (54%) 23s
+[1]Alana       |18:29:39 | 12-10-2026| manga ch2 (2520001): page 7/11 (63%) 27s
+[1]Alana       |18:29:44 | 12-10-2026| manga ch2 (2520001): page 8/11 (72%) 32s
+[1]Alana       |18:29:48 | 12-10-2026| manga ch2 (2520001): page 9/11 (81%) 37s
+[1]Alana       |18:29:53 | 12-10-2026| manga ch2 (2520001): page 10/11 (90%) 42s
+[1]Alana       |18:29:58 | 12-10-2026| manga ch2 (2520001): page 11/11 (99%) 46s
+[1]Alana       |18:30:02 | 12-10-2026| manga ch2 (2520001): COMPLETED
+[1]Alana       |18:30:05 | 12-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Alana       |18:30:12 | 12-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
+[1]Alana       |18:30:17 | 12-10-2026| manga ch3 (2550001): page 2/11 (18%) 5s
+[1]Alana       |18:30:21 | 12-10-2026| manga ch3 (2550001): page 3/11 (27%) 9s
+[1]Alana       |18:30:26 | 12-10-2026| manga ch3 (2550001): page 4/11 (36%) 14s
+[1]Alana       |18:30:30 | 12-10-2026| manga ch3 (2550001): page 5/11 (45%) 18s
+[1]Alana       |18:30:35 | 12-10-2026| manga ch3 (2550001): page 6/11 (54%) 23s
+[1]Alana       |18:30:40 | 12-10-2026| manga ch3 (2550001): page 7/11 (63%) 28s
+[1]Alana       |18:30:45 | 12-10-2026| manga ch3 (2550001): page 8/11 (72%) 32s
+[1]Alana       |18:30:50 | 12-10-2026| manga ch3 (2550001): page 9/11 (81%) 38s
+[1]Alana       |18:30:55 | 12-10-2026| manga ch3 (2550001): page 10/11 (90%) 43s
+[1]Alana       |18:30:59 | 12-10-2026| manga ch3 (2550001): page 11/11 (99%) 47s
+[1]Alana       |18:31:04 | 12-10-2026| manga ch3 (2550001): COMPLETED
 --> [1]Alana menjalankan: Get Gift
-[1]Alana       |09:00:53 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Alana       |18:31:08 | 12-10-2026| gift: 3/3 belum diterima
+[1]Alana       |18:31:09 | 12-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
+[1]Alana       |18:31:13 | 12-10-2026| gift [2/3] Osshi animated stickers: OK
+[1]Alana       |18:31:16 | 12-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
 --> [1]Alana menjalankan: Setup Profile
-[1]Alana       |09:00:53 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Alana       |18:31:18 | 12-10-2026| profile: bio="" fav=- rewardAt=-
+[1]Alana       |18:31:20 | 12-10-2026| profile: OK bio="https://x.com/alanazerica" fav=oshi awarded=true +10pt
 --> [1]Alana menjalankan: Bind Wallet
-[1]Alana       |09:00:53 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Alana       |18:31:21 | 12-10-2026| wallet: derivasi dari privateKeySolana -> BGe2ZngfpMw8HboqRdPkwKEwqBTbXeqK67VJ7cUiPC3i (cek cocok dengan wallet kamu!)
+[1]Alana       |18:31:21 | 12-10-2026| wallet: /api/wallet OK (solana)
+[1]Alana       |18:31:22 | 12-10-2026| wallet: /api/sol-address OK
 
 == RINGKASAN ==
-- Alana: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 3/4 completed | musik 0 trek ~0s | artikel 8 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
+- Alana: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+60pt) | watch 1/1 completed | musik 11 trek ~1839.5829000000003s | artikel 16 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
