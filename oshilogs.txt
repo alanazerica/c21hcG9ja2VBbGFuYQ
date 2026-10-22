@@ -12,102 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Alana =====
-[1]Alana       |08:10:34 | 21-10-2026| login OK @alanazerica | score=1590 rank=4473
-[1]Alana       |08:10:34 | 21-10-2026| serverTime=2026-10-21T08:10:34.000Z local=2026-10-21T08:10:34.308Z
+[1]Alana       |09:03:19 | 22-10-2026| login OK @alanazerica | score=1660 rank=4348
+[1]Alana       |09:03:19 | 22-10-2026| serverTime=2026-10-22T09:03:19.000Z local=2026-10-22T09:03:19.215Z
 --> [1]Alana menjalankan: Claim Daily
-[1]Alana       |08:10:35 | 21-10-2026| daily: OK +10 poin score=1600
---> [1]Alana menjalankan: Auto All Tasks (6 pending)
-[1]Alana       |08:10:37 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/alanazerica/status/2112818549016493005
-[1]Alana       |08:10:37 | 21-10-2026| delay 10s...
-[1]Alana       |08:10:48 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/alanazerica/status/2112818481295302164
-[1]Alana       |08:10:48 | 21-10-2026| delay 10s...
-[1]Alana       |08:11:01 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/alanazerica/status/2112818354377318687
-[1]Alana       |08:11:01 | 21-10-2026| delay 10s...
-[1]Alana       |08:11:13 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/alanazerica/status/2112818406854743707
-[1]Alana       |08:11:13 | 21-10-2026| delay 10s...
-[1]Alana       |08:11:26 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/alanazerica/status/2112818739308719819
-[1]Alana       |08:11:26 | 21-10-2026| delay 10s...
-[1]Alana       |08:11:38 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
-[1]Alana       |08:11:38 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Alana       |08:11:40 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/alanazerica/status/2112818689320626792
+[1]Alana       |09:03:20 | 22-10-2026| daily: OK +10 poin score=1670
+--> [1]Alana menjalankan: Auto All Tasks (9 pending)
+[1]Alana       |09:03:22 | 22-10-2026| [1/9] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/alanazerica/status/2113194199821082860
+[1]Alana       |09:03:22 | 22-10-2026| delay 10s...
+[1]Alana       |09:03:34 | 22-10-2026| [2/9] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/alanazerica/status/2113194266617998089
+[1]Alana       |09:03:34 | 22-10-2026| delay 10s...
+[1]Alana       |09:03:46 | 22-10-2026| [3/9] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/alanazerica/status/2113194133978277098
+[1]Alana       |09:03:46 | 22-10-2026| delay 10s...
+[1]Alana       |09:03:58 | 22-10-2026| [4/9] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/alanazerica/status/2113194087693187374
+[1]Alana       |09:03:58 | 22-10-2026| delay 10s...
+[1]Alana       |09:04:11 | 22-10-2026| [5/9] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/alanazerica/status/2113194172257461050
+[1]Alana       |09:04:11 | 22-10-2026| delay 10s...
+[1]Alana       |09:04:23 | 22-10-2026| [6/9] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/alanazerica/status/2113194211353391717
+[1]Alana       |09:04:23 | 22-10-2026| delay 10s...
+[1]Alana       |09:04:35 | 22-10-2026| [7/9] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/alanazerica/status/2113194458033487492
+[1]Alana       |09:04:35 | 22-10-2026| delay 10s...
+[1]Alana       |09:04:47 | 22-10-2026| [8/9] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/alanazerica/status/2113194294102120844
+[1]Alana       |09:04:47 | 22-10-2026| delay 10s...
+[1]Alana       |09:04:59 | 22-10-2026| [9/9] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/alanazerica/status/2113194361186282605
+[1]Alana       |09:04:59 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Alana       |09:05:01 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/alanazerica/status/2113194331789600732
 --> [1]Alana menjalankan: Watch Anime
-[1]Alana       |08:11:40 | 21-10-2026| watch: 2 video belum completed: oshi-captains-hat,bakeru-ikesou-jan-mv
-[1]Alana       |08:11:40 | 21-10-2026| watch [1/2] farming oshi-captains-hat...
-[1]Alana       |08:11:41 | 21-10-2026| watch oshi-captains-hat: mulai dari 0 (record 5.2s diabaikan)
-[1]Alana       |08:11:42 | 21-10-2026| watch oshi-captains-hat: 5% (5.24/92.00s)
-[1]Alana       |08:11:49 | 21-10-2026| watch oshi-captains-hat: 5% (5.41/92.00s)
-[1]Alana       |08:11:55 | 21-10-2026| watch oshi-captains-hat: 12% (11.51/92.00s)
-[1]Alana       |08:12:01 | 21-10-2026| watch oshi-captains-hat: 18% (17.09/92.00s)
-[1]Alana       |08:12:08 | 21-10-2026| watch oshi-captains-hat: 24% (22.55/92.00s)
-[1]Alana       |08:12:14 | 21-10-2026| watch oshi-captains-hat: 31% (28.54/92.00s)
-[1]Alana       |08:12:21 | 21-10-2026| watch oshi-captains-hat: 37% (34.13/92.00s)
-[1]Alana       |08:12:28 | 21-10-2026| watch oshi-captains-hat: 43% (40.37/92.00s)
-[1]Alana       |08:12:34 | 21-10-2026| watch oshi-captains-hat: 50% (46.22/92.00s)
-[1]Alana       |08:12:41 | 21-10-2026| watch oshi-captains-hat: 57% (52.45/92.00s)
-[1]Alana       |08:12:47 | 21-10-2026| watch oshi-captains-hat: 63% (58.02/92.00s)
-[1]Alana       |08:12:53 | 21-10-2026| watch oshi-captains-hat: 69% (63.92/92.00s)
-[1]Alana       |08:13:00 | 21-10-2026| watch oshi-captains-hat: 75% (69.36/92.00s)
-[1]Alana       |08:13:06 | 21-10-2026| watch oshi-captains-hat: 81% (75.43/92.00s)
-[1]Alana       |08:13:12 | 21-10-2026| watch oshi-captains-hat: 87% (80.92/92.00s)
-[1]Alana       |08:13:19 | 21-10-2026| watch oshi-captains-hat: 94% (86.68/92.00s)
-[1]Alana       |08:13:19 | 21-10-2026| watch oshi-captains-hat: COMPLETED (86.68/92.00s)
-[1]Alana       |08:13:24 | 21-10-2026| watch [2/2] farming bakeru-ikesou-jan-mv...
-[1]Alana       |08:13:25 | 21-10-2026| watch bakeru-ikesou-jan-mv: mulai dari 0 (record 68.6s diabaikan)
-[1]Alana       |08:13:26 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.63/181.00s)
-[1]Alana       |08:13:33 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.63/181.00s)
-[1]Alana       |08:13:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.63/181.00s)
-[1]Alana       |08:13:45 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.63/181.00s)
-[1]Alana       |08:13:51 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.63/181.00s)
-[1]Alana       |08:13:59 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.63/181.00s)
-[1]Alana       |08:14:05 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.63/181.00s)
-[1]Alana       |08:14:12 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.63/181.00s)
-[1]Alana       |08:14:18 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.63/181.00s)
-[1]Alana       |08:14:24 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.63/181.00s)
-[1]Alana       |08:14:30 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.63/181.00s)
-[1]Alana       |08:14:37 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.63/181.00s)
-[1]Alana       |08:14:43 | 21-10-2026| watch bakeru-ikesou-jan-mv: 38% (68.99/181.00s)
-[1]Alana       |08:14:49 | 21-10-2026| watch bakeru-ikesou-jan-mv: 41% (74.35/181.00s)
-[1]Alana       |08:14:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: 44% (80.13/181.00s)
-[1]Alana       |08:15:02 | 21-10-2026| watch bakeru-ikesou-jan-mv: 47% (85.63/181.00s)
-[1]Alana       |08:15:09 | 21-10-2026| watch bakeru-ikesou-jan-mv: 50% (91.14/181.00s)
-[1]Alana       |08:15:15 | 21-10-2026| watch bakeru-ikesou-jan-mv: 53% (97.38/181.00s)
-[1]Alana       |08:15:22 | 21-10-2026| watch bakeru-ikesou-jan-mv: 57% (103.32/181.00s)
-[1]Alana       |08:15:28 | 21-10-2026| watch bakeru-ikesou-jan-mv: 60% (109.38/181.00s)
-[1]Alana       |08:15:34 | 21-10-2026| watch bakeru-ikesou-jan-mv: 63% (115.25/181.00s)
-[1]Alana       |08:15:41 | 21-10-2026| watch bakeru-ikesou-jan-mv: 66% (120.67/181.00s)
-[1]Alana       |08:15:48 | 21-10-2026| watch bakeru-ikesou-jan-mv: 69% (126.38/181.00s)
-[1]Alana       |08:15:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: 73% (133.18/181.00s)
-[1]Alana       |08:16:01 | 21-10-2026| watch bakeru-ikesou-jan-mv: 76% (139.28/181.00s)
-[1]Alana       |08:16:08 | 21-10-2026| watch bakeru-ikesou-jan-mv: 79% (144.79/181.00s)
-[1]Alana       |08:16:15 | 21-10-2026| watch bakeru-ikesou-jan-mv: 83% (150.85/181.00s)
-[1]Alana       |08:16:22 | 21-10-2026| watch bakeru-ikesou-jan-mv: 86% (157.03/181.00s)
-[1]Alana       |08:16:28 | 21-10-2026| watch bakeru-ikesou-jan-mv: 90% (163.23/181.00s)
-[1]Alana       |08:16:28 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (163.23/181.00s)
+[1]Alana       |09:05:02 | 22-10-2026| watch: semua video sudah completed
 --> [1]Alana menjalankan: Read Article
-[1]Alana       |08:16:31 | 21-10-2026| news: 27/27 artikel selesai dibaca
-[1]Alana       |08:16:32 | 21-10-2026| mint eligibility: {"userId":"1918733235850448896","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@alanazerica","status":"submitted","revision":"e9cc74fe-b870-4075-83c5-f06be8dadf
-[1]Alana       |08:16:38 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Alana       |09:05:03 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Alana       |09:05:04 | 22-10-2026| mint eligibility: {"userId":"1918733235850448896","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@alanazerica","status":"submitted","revision":"e9cc74fe-b870-4075-83c5-f06be8dadf
+[1]Alana       |09:05:10 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Alana       |09:05:19 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Alana menjalankan: Quiz Anime
-[1]Alana       |08:16:41 | 21-10-2026| quiz ep1: sudah dijawab
-[1]Alana       |08:16:41 | 21-10-2026| quiz ep2: sudah dijawab
-[1]Alana       |08:16:41 | 21-10-2026| quiz ep3: sudah dijawab
-[1]Alana       |08:16:41 | 21-10-2026| quiz ep4: sudah dijawab
-[1]Alana       |08:16:41 | 21-10-2026| quiz ep5: sudah dijawab
-[1]Alana       |08:16:41 | 21-10-2026| quiz ep6: sudah dijawab
+[1]Alana       |09:05:22 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Alana       |09:05:22 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Alana       |09:05:22 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Alana       |09:05:22 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Alana       |09:05:22 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Alana       |09:05:22 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Alana menjalankan: Music Missions (realtime, bisa lama!)
-[1]Alana       |08:16:43 | 21-10-2026| music: kedua misi sudah tercapai, stop
-[1]Alana       |08:16:44 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Alana       |08:16:44 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Alana       |08:16:44 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Alana       |09:05:24 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Alana       |09:05:24 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Alana       |09:05:24 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Alana       |09:05:24 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Alana menjalankan: Claim Missions
-[1]Alana       |08:16:44 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Alana       |08:16:44 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Alana       |08:16:44 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Alana       |09:05:25 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Alana       |09:05:25 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Alana       |09:05:25 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Alana menjalankan: Check Eligibility
 
 --- eligibility [1]Alana ---
-  @alanazerica | score=1590 rank=4473
-  tasks    [###################-] 74/80
+  @alanazerica | score=1660 rank=4348
+  tasks    [##################--] 77/86
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -118,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Alana menjalankan: Read Manga
-[1]Alana       |08:16:48 | 21-10-2026| manga: 0/13 chapter belum completed
+[1]Alana       |09:05:29 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Alana menjalankan: Get Gift
-[1]Alana       |08:16:49 | 21-10-2026| gift: 0/4 belum diterima
+[1]Alana       |09:05:29 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Alana menjalankan: Setup Profile
-[1]Alana       |08:16:49 | 21-10-2026| profile: bio="https://x.com/alanazerica" fav=oshi rewardAt=1791829880
-[1]Alana       |08:16:49 | 21-10-2026| profile: bonus sudah diklaim, skip
+[1]Alana       |09:05:30 | 22-10-2026| profile: bio="https://x.com/alanazerica" fav=oshi rewardAt=1791829880
+[1]Alana       |09:05:30 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Alana menjalankan: Bind Wallet
-[1]Alana       |08:16:49 | 21-10-2026| wallet: sudah terikat BGe2ZngfpM... (solana)
+[1]Alana       |09:05:30 | 22-10-2026| wallet: sudah terikat BGe2ZngfpM... (solana)
 
 == RINGKASAN ==
-- Alana: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/2 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Alana: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
