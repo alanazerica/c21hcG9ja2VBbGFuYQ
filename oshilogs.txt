@@ -12,41 +12,37 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Alana =====
-[1]Alana       |14:55:14 | 26-11-2026| login OK @alanazerica | score=3520 rank=2219
-[1]Alana       |14:55:14 | 26-11-2026| serverTime=2026-11-26T14:55:14.000Z local=2026-11-26T14:55:14.594Z
+[1]Alana       |13:26:15 | 27-11-2026| login OK @alanazerica | score=3560 rank=2184
+[1]Alana       |13:26:15 | 27-11-2026| serverTime=2026-11-27T13:26:14.000Z local=2026-11-27T13:26:15.046Z
 --> [1]Alana menjalankan: Claim Daily
-[1]Alana       |14:55:16 | 26-11-2026| daily: sudah klaim (already=true) score=3520
---> [1]Alana menjalankan: Auto All Tasks (4 pending)
-[1]Alana       |14:55:18 | 26-11-2026| [1/4] dfcc39bb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"dfcc39bb-f2a7-4f71-9a1b-fa722a1df07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212593152719651 | proof=https://x.com/alanazerica/status/2125966152384556046
-[1]Alana       |14:55:18 | 26-11-2026| delay 10s...
-[1]Alana       |14:55:30 | 26-11-2026| [2/4] dacb84a3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"dfcc39bb-f2a7-4f71-9a1b-fa722a1df07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212593152719651 | proof=https://x.com/alanazerica/status/2125966254502816139
-[1]Alana       |14:55:30 | 26-11-2026| delay 10s...
-[1]Alana       |14:55:42 | 26-11-2026| [3/4] 288c3ab7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"dfcc39bb-f2a7-4f71-9a1b-fa722a1df07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212593152719651 | proof=https://x.com/alanazerica/status/2125966246205412794
-[1]Alana       |14:55:42 | 26-11-2026| delay 10s...
-[1]Alana       |14:55:54 | 26-11-2026| [4/4] a2a7dad9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"dfcc39bb-f2a7-4f71-9a1b-fa722a1df07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212593152719651 | proof=https://x.com/alanazerica/status/2125966203994615306
-[1]Alana       |14:55:54 | 26-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Alana       |14:55:56 | 26-11-2026| [1/1] dfcc39bb (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"dfcc39bb-f2a7-4f71-9a1b-fa722a1df07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2125931527196512 | proof=https://x.com/alanazerica/status/2125966502031612574
+[1]Alana       |13:26:16 | 27-11-2026| daily: OK +10 poin score=3570
+--> [1]Alana menjalankan: Auto All Tasks (2 pending)
+[1]Alana       |13:26:18 | 27-11-2026| [1/2] 3f5ce0b6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3f5ce0b6-e578-4221-a695-7bfff1317585","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212627842799310 | proof=https://x.com/alanazerica/status/2126306308103994381
+[1]Alana       |13:26:18 | 27-11-2026| delay 10s...
+[1]Alana       |13:26:29 | 27-11-2026| [2/2] 4cdfafa2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3f5ce0b6-e578-4221-a695-7bfff1317585","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212627842799310 | proof=https://x.com/alanazerica/status/2126306386235617908
+[1]Alana       |13:26:29 | 27-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Alana       |13:26:30 | 27-11-2026| [1/1] 3f5ce0b6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3f5ce0b6-e578-4221-a695-7bfff1317585","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2126278427993100 | proof=https://x.com/alanazerica/status/2126306330695094465
 --> [1]Alana menjalankan: Watch Anime
-[1]Alana       |14:55:56 | 26-11-2026| watch: semua video sudah completed
+[1]Alana       |13:26:31 | 27-11-2026| watch: semua video sudah completed
 --> [1]Alana menjalankan: Read Article
-[1]Alana       |14:55:57 | 26-11-2026| news: 35/35 artikel selesai dibaca
-[1]Alana       |14:55:58 | 26-11-2026| mint eligibility: {"userId":"1918733235850448896","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@alanazerica","status":"submitted","revision":"e9cc74fe-b870-4075-83c5-f06be8dadf
-[1]Alana       |14:55:58 | 26-11-2026| news: semua artikel sudah dibaca
+[1]Alana       |13:26:32 | 27-11-2026| news: 35/35 artikel selesai dibaca
+[1]Alana       |13:26:32 | 27-11-2026| mint eligibility: {"userId":"1918733235850448896","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@alanazerica","status":"submitted","revision":"e9cc74fe-b870-4075-83c5-f06be8dadf
+[1]Alana       |13:26:32 | 27-11-2026| news: semua artikel sudah dibaca
 --> [1]Alana menjalankan: Quiz Anime
 --> [1]Alana menjalankan: Music Missions (realtime, bisa lama!)
-[1]Alana       |14:55:59 | 26-11-2026| music: kedua misi sudah tercapai, stop
-[1]Alana       |14:55:59 | 26-11-2026| mission music-listens-10: sudah diklaim
-[1]Alana       |14:55:59 | 26-11-2026| mission music-minutes-30: sudah diklaim
-[1]Alana       |14:55:59 | 26-11-2026| mission anime-completed-3: sudah diklaim
+[1]Alana       |13:26:33 | 27-11-2026| music: kedua misi sudah tercapai, stop
+[1]Alana       |13:26:34 | 27-11-2026| mission music-listens-10: sudah diklaim
+[1]Alana       |13:26:34 | 27-11-2026| mission music-minutes-30: sudah diklaim
+[1]Alana       |13:26:34 | 27-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Alana menjalankan: Claim Missions
-[1]Alana       |14:56:00 | 26-11-2026| mission music-listens-10: sudah diklaim
-[1]Alana       |14:56:00 | 26-11-2026| mission music-minutes-30: sudah diklaim
-[1]Alana       |14:56:00 | 26-11-2026| mission anime-completed-3: sudah diklaim
+[1]Alana       |13:26:34 | 27-11-2026| mission music-listens-10: sudah diklaim
+[1]Alana       |13:26:34 | 27-11-2026| mission music-minutes-30: sudah diklaim
+[1]Alana       |13:26:34 | 27-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Alana menjalankan: Check Eligibility
 
 --- eligibility [1]Alana ---
-  @alanazerica | score=3520 rank=2219
-  tasks    [#######-------------] 2/6
+  @alanazerica | score=3560 rank=2184
+  tasks    [###############-----] 6/8
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -57,17 +53,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Alana menjalankan: Read Manga
-[1]Alana       |14:56:02 | 26-11-2026| manga: 0/13 chapter belum completed
+[1]Alana       |13:26:36 | 27-11-2026| manga: 0/13 chapter belum completed
 --> [1]Alana menjalankan: Get Gift
-[1]Alana       |14:56:05 | 26-11-2026| gift: 3/12 belum diterima
-[1]Alana       |14:56:05 | 26-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Alana       |14:56:08 | 26-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Alana       |14:56:10 | 26-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Alana       |13:26:37 | 27-11-2026| gift: 3/12 belum diterima
+[1]Alana       |13:26:38 | 27-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Alana       |13:26:40 | 27-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Alana       |13:26:43 | 27-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Alana menjalankan: Setup Profile
-[1]Alana       |14:56:13 | 26-11-2026| profile: bio="https://x.com/alanazerica" fav=oshi rewardAt=1791829880
-[1]Alana       |14:56:13 | 26-11-2026| profile: bonus sudah diklaim, skip
+[1]Alana       |13:26:45 | 27-11-2026| profile: bio="https://x.com/alanazerica" fav=oshi rewardAt=1791829880
+[1]Alana       |13:26:45 | 27-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Alana menjalankan: Bind Wallet
-[1]Alana       |14:56:14 | 26-11-2026| wallet: sudah terikat BGe2ZngfpM... (solana)
+[1]Alana       |13:26:46 | 27-11-2026| wallet: sudah terikat BGe2ZngfpM... (solana)
 
 == RINGKASAN ==
-- Alana: daily=already | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Alana: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
